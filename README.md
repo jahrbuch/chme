@@ -35,4 +35,10 @@ GitHub does not automatically update your page when I make changes to the templa
 1. Navigate to your repository.  
 2. Click the **"Sync fork"** button.  
 3. Then, click **"Update branch"**  
-4. GitHub will take a few minutes to process, and your site will be up to date.  
+4. GitHub will take a few minutes to process, and your site will be up to date.
+
+---
+
+## Example screenshots
+![image](https://github.com/user-attachments/assets/1a5990fa-26f4-42f1-9c7f-615012e60dac)
+![image](https://github.com/user-attachments/assets/a058f1e2-5e24-4e41-b7ef-a5272126c981)
