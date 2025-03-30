@@ -1,0 +1,223 @@
+{
+  "teachers": [
+    {
+      "name": "Teacher 1",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 2",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 3",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 4",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 5",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 6",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 7",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 8",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 9",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 10",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 11",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 12",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    },
+    {
+      "name": "Teacher 13",
+      "image": {
+        "0": "image/teacher/teacher-pic.png",
+        "1": "image/teacher/teacher-pic.png"
+      }
+    }
+  ],
+  "students": [
+    {
+      "name": "Student 1",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 2",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 3",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 4",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 5",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 6",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 7",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 8",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 9",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 10",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 11",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 12",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 13",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 14",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 15",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 16",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 17",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    },
+    {
+      "name": "Student 18",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-pic.png"
+      }
+    }
+  ]
+}

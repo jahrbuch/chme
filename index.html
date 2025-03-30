@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
+    <title>Yearbook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="book-page" id="bookPage">
+    <div class="book-navbar">
+        <div class="book-nav-icon" onclick="loadPeople('teacher')">Teacher</div>
+        <div class="book-nav-icon" onclick="loadPeople('student')">Students</div>
+    </div>
+    <div class="book-content" id="bookContent">
+        <div class="people-container"></div>
+    </div>
+</div>
+
+<div class="gallery-page" id="galleryPage">
+    <div class="gallery-content" id="galleryContent">
+        <div class="picture-container"></div>
+    </div>
+</div>
+
+<div class="gallery-item-page" id="galleryItemPage">
+    <button class="rounded-button" onclick="closeImage()"></button>
+    <img class="gallery-item-open" src="" alt="" id="galleryItemOpen">
+</div>
+
+<div class="navbar">
+    <div class="nav-icon" onclick="bookClicked()">
+        <img src="image/book.png" height="30" width="30" alt="book"/>
+    </div>
+    <div class="nav-icon" onclick="galleryClicked()">
+        <img src="image/gallery.png" height="30" width="30" alt="gallery"/>
+    </div>
+</div>
+
+</body>
+
+<script src="script.js"></script>
+</html>
