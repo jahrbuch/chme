@@ -6,9 +6,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    box-sizing: border-box;
 }
 
 .navbar {
@@ -32,13 +30,11 @@ body {
     cursor: pointer;
     transition: color 0.3s ease;
     margin: 0 20px;
+    background: none;
+    border: none;
 }
 
-.nav-icon:hover {
-    color: #fff;
-}
-
-.book-page {
+.page {
     display: none;
     position: fixed;
     top: 0;
@@ -48,8 +44,10 @@ body {
     background-color: #121212;
     color: white;
     z-index: 1000;
-    overflow-y: hidden;
+    overflow-y: auto;
     scrollbar-width: none;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .book-navbar {
@@ -68,94 +66,58 @@ body {
 
 .book-nav-icon {
     color: #bdbdbd;
-    font-size: 15px;
-    padding: 5px;
+    font-size: 1rem;
+    padding: 5px 10px;
     cursor: pointer;
     transition: color 0.3s ease;
-    margin: 0 20px;
+    background: none;
+    border: none;
 }
 
-.book-content {
-    padding: 20px;
-    overflow: hidden;
+.book-nav-icon:hover {
+    color: #fff;
 }
 
 .people-container {
     max-width: 800px;
-    margin: 120px auto;
-    padding: 20px;
-    overflow-y: auto;
-    height: calc(100vh - 300px);
-    scrollbar-width: none;
+    margin: 80px auto 20px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 10px;
 }
 
 .person-item {
-    display: inline-block;
     text-align: center;
-    margin: 10px;
     cursor: pointer;
 }
 
 .person-item img {
-    width: 120px;
-    height: 165px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 120/165;
     object-fit: cover;
     border-radius: 13px;
 }
 
 .person-item div {
     color: white;
-    margin: 10px;
-}
-
-.gallery-page {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: calc(100% - 100px);
-    background-color: #121212;
-    color: white;
-    z-index: 1000;
-    overflow-y: hidden;
-    scrollbar-width: none;
-}
-
-.gallery-content {
-    overflow: hidden;
-    display: flex;
+    margin-top: 10px;
 }
 
 .picture-container {
     max-width: 800px;
-    margin: 120px auto;
-    padding: 20px;
-    overflow-y: auto;
-    scrollbar-color: #1b1b1b #252525;
-    height: calc(100vh - 300px);
+    margin: 80px auto 20px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 10px;
 }
 
-.gallery-column {
-    flex: 1;
-}
-
-.gallery-item {
-    margin-bottom: 10px;
-}
-
 .gallery-item img {
     width: 100%;
     height: auto;
-    display: block;
     border-radius: 12px;
     cursor: pointer;
+    margin: 4px;
 }
 
 .gallery-item-page {
@@ -164,54 +126,106 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: calc(100% - 100px);
+    height: 100%;
     background-color: #121212;
     color: white;
     z-index: 1000;
-    overflow-y: hidden;
-    scrollbar-width: none;
 }
 
 .gallery-item-open {
-    height: 93%;
-    object-fit: cover;
+    max-width: 85%;
+    max-height: 80%;
+    object-fit: contain;
     border-radius: 13px;
     display: block;
-    margin: 40px auto 0;
+    margin: 50px auto;
 }
 
-.video-container {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding-top: 50px;
-    width: 100%;
-}
-
-.gallery-item-video-open {
-    max-width: 80%;
-    display: block;
-    margin: 0 auto;
-}
-
-.rounded-button {
+.person-item-page {
+    display: none;
     position: fixed;
-    top: 40px;
-    right: 40px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #121212;
+    color: white;
+    z-index: 1000;
+}
+
+.person-container {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+.person-image-open {
+    border-radius: 13px;
+    width: 200px;
+    position: relative;
+}
+
+.person-name {
+    position: absolute;
+    top: 0;
+    left: 220px;
+    white-space: nowrap;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.person-info{
+    position: absolute;
+    left: 220px;
+    top: 60px;
+}
+
+.person-attribute{
+    white-space: nowrap;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+@media (max-width: 500px) {
+    .person-name {
+        position: static;
+        text-align: center;
+        margin: 20px;
+    }
+
+    .person-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.close-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
     width: 40px;
     height: 40px;
     background-color: #551818;
     border: none;
-    border-radius: 15%;
+    border-radius: 50%;
     cursor: pointer;
-    transition: background-color 0.3s ease;
 }
 
-.rounded-button:hover {
-    background-color: #330f0f;
+.close-button::before, .close-button::after {
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 20px;
+    background-color: white;
+    top: 10px;
+    left: 19px;
 }
 
-.rounded-button:focus {
-    outline: 2px solid #551818;
-    outline-offset: 2px;
+.close-button::before {
+    transform: rotate(45deg);
+}
+
+.close-button::after {
+    transform: rotate(-45deg);
 }

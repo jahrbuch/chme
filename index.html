@@ -4,42 +4,49 @@
     <meta charset="UTF-8">
     <meta name="robots" content="noindex">
     <title>Yearbook</title>
+    <link rel="icon" href="image/icon.png" type="image/png">
     <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
 
-<div class="book-page" id="bookPage">
-    <div class="book-navbar">
-        <div class="book-nav-icon" onclick="loadPeople('teacher')">Teacher</div>
-        <div class="book-nav-icon" onclick="loadPeople('student')">Students</div>
-    </div>
-    <div class="book-content" id="bookContent">
-        <div class="people-container"></div>
-    </div>
-</div>
+<nav class="navbar">
+    <button class="nav-icon" data-page="book">
+        <img src="image/book.png" height="30" width="30" alt="Yearbook">
+    </button>
+    <button class="nav-icon" data-page="gallery">
+        <img src="image/gallery.png" height="30" width="30" alt="Gallery">
+    </button>
+</nav>
 
-<div class="gallery-page" id="galleryPage">
-    <div class="gallery-content" id="galleryContent">
-        <div class="picture-container"></div>
-    </div>
-</div>
+<section id="bookPage" class="page book-page">
+    <nav class="book-navbar">
+        <button class="book-nav-icon" data-type="teacher">Teachers</button>
+        <button class="book-nav-icon" data-type="student">Students</button>
+    </nav>
+    <div class="people-container"></div>
+</section>
 
-<div class="gallery-item-page" id="galleryItemPage">
-    <button class="rounded-button" onclick="closeImage()"></button>
-    <img class="gallery-item-open" src="" alt="" id="galleryItemOpen">
-</div>
+<section id="galleryPage" class="page gallery-page">
+    <div class="picture-container"></div>
+</section>
 
-<div class="navbar">
-    <div class="nav-icon" onclick="bookClicked()">
-        <img src="image/book.png" height="30" width="30" alt="book"/>
+<section id="personItemPage" class="page person-item-page">
+    <button class="close-button" aria-label="Close Person" id="personCloseButton"></button>
+    <div class="person-container">
+        <img id="personItemOpen" class="person-image-open" src="" alt="">
+        <div id="personName" class="person-name">Person Name</div>
+        <div id="personInfo" class="person-info">
+        </div>
     </div>
-    <div class="nav-icon" onclick="galleryClicked()">
-        <img src="image/gallery.png" height="30" width="30" alt="gallery"/>
-    </div>
-</div>
+</section>
 
-</body>
+<section id="galleryItemPage" class="page gallery-item-page">
+    <button class="close-button" aria-label="Close image" id="imageCloseButton"></button>
+    <img id="galleryItemOpen" class="gallery-item-open" src="" alt="">
+</section>
 
 <script src="script.js"></script>
+</body>
 </html>
