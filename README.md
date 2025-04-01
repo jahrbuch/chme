@@ -42,3 +42,7 @@ GitHub does not automatically update your page when I make changes to the templa
 ## Example screenshots
 ![image](https://github.com/user-attachments/assets/1a5990fa-26f4-42f1-9c7f-615012e60dac)
 ![image](https://github.com/user-attachments/assets/a058f1e2-5e24-4e41-b7ef-a5272126c981)
+![image](https://github.com/user-attachments/assets/3c1fc59e-4ac2-4581-b9aa-9619adffc585)
+![image](https://github.com/user-attachments/assets/ba499968-8ba0-4474-86f4-3bf95a37869b)
+
+
