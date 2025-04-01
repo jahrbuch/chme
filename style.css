@@ -180,6 +180,13 @@ body {
     top: 60px;
 }
 
+.person-header{
+    white-space: nowrap;
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
 .person-attribute{
     white-space: nowrap;
     font-size: 20px;
@@ -189,29 +196,49 @@ body {
 .person-comments{
     white-space: nowrap;
     font-size: 20px;
-    margin-top: 40px;
+    margin-top: 20px;
     color: #7a7a7a;
 }
 
 .person-description{
     position: absolute;
     top: 350px;
-    width: 400%;
+    width: 60vw;
     white-space: wrap;
     font-size: 20px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 540px) {
+    .person-image-open {
+        border-radius: 13px;
+        width: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .person-container {
+        position: absolute;
+        top: 20%;
+        left: 20%;
+    }
+
     .person-name {
         position: static;
         text-align: center;
-        margin: 20px;
+        margin-top: 70px;
     }
 
-    .person-container{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    .person-info{
+        position: static;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .person-description{
+        position: static;
+        text-align: center;
+        margin-top: 55px;
+        margin-bottom: 60px;
     }
 }
 

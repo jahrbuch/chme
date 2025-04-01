@@ -1,5 +1,6 @@
 const peopleData = fetch('json/peopleData.json').then(res => res.json());
 const pictureData = fetch('json/pictureData.json').then(res => res.json());
+let intervalId;
 
 document.querySelectorAll('.nav-icon').forEach(button => {
     button.addEventListener('click', () => showPage(button.dataset.page));
@@ -53,46 +54,56 @@ function handlePersonClick(person) {
     if (isStudent(person)) {
         document.getElementById('personInfo').innerHTML += `
             <div id="personHeight" class="person-attribute">Height: ${person.height}</div>
-            <div id="personBirthday" class="person-attribute">Birthday: ${person.birthday}</div>
+            <div id="personBirthday" class="person-attribute">Birthday: ${person.birthday} (${calculateAge(person.birthday)})</div>
             <div id="personNationality" class="person-attribute">Nationality: ${person.nationality}</div>
             <div id="personGender" class="person-attribute">Gender: ${person.gender}</div>
-            <div id="personComments" class="person-comments">${person.comments[0]}</div>
         `;
     } else {
         document.getElementById('personInfo').innerHTML += `
-            <div id="personComments" class="person-comments">${person.comments[0]}</div>
+            <div id="personHeight" class="person-header">Rating:</div>
+            <div id="personHeight" class="person-attribute">Personality: ${person.rating.personality}</div>
+            <div id="personHeight" class="person-attribute">Lesson: ${person.rating.lesson}</div>
+            <div id="personHeight" class="person-attribute">Grading: ${person.rating.grading}</div>
+            <div id="personHeight" class="person-attribute">Knowledge: ${person.rating.knowledge}</div>
         `;
     }
+    document.getElementById('personInfo').innerHTML += `<div id="personComments" class="person-comments">${person.comments[0]}</div>`;
 
-    function nextButtonHandler() {
-        changePicture('next', person);
-    }
+    document.getElementById('nextButton').addEventListener('click', () => {changePicture("next", person)});
+    document.getElementById('previousButton').addEventListener('click', () => {changePicture("previous", person)});
 
-    function previousButtonHandler() {
-        changePicture('previous', person);
-    }
-
-    document.getElementById('personContainer').innerHTML += `
-            <div id="nextButton" class="next-button" onclick=nextButtonHandler></div>
-            <div id="previousButton" class="previous-button" onclick=previousButtonHandler></div>
-        `;
-
-    let commentIndex = 1;
     const comments = person.comments;
     const commentsLength = Object.keys(comments).length
 
-    setInterval(() => {
+    intervalId = setInterval(() => {
         if (comments && commentsLength > 0) {
-            document.getElementById('personComments').textContent = comments[commentIndex];
-            commentIndex = (commentIndex + 1) % commentsLength;
+            document.getElementById('personComments').textContent = comments[Math.floor(Math.random() * Object.keys(comments).length)];
         }
     }, 5000);
 }
 
+function calculateAge(birthdayString) {
+    const parts = birthdayString.split('.');
+    const day = parseInt(parts[0], 10);
+    const month = parseInt(parts[1], 10) - 1;
+    const year = parseInt(parts[2], 10);
+
+    const today = new Date();
+    const todayYear = today.getFullYear();
+    const todayMonth = today.getMonth();
+    const todayDay = today.getDate();
+
+    let age = todayYear - year;
+
+    if (todayMonth < month || (todayMonth === month && todayDay < day)) {
+        age--;
+    }
+
+    return age;
+}
+
 function changePicture(direction, person) {
     let activeImage = "";
-
-    console.log(person.name);
 
     if (isStudent(person)) {
         activeImage = "image/student/" + document.getElementById('personItemOpen').src.split('image/student/')[1];
@@ -158,6 +169,16 @@ function closeImage() {
 
 function closePerson() {
     document.getElementById('personItemPage').style.display = 'none';
+
+    let myDiv = document.getElementById("nextButton");
+    let newDiv = myDiv.cloneNode(false);
+    myDiv.parentNode.replaceChild(newDiv, myDiv);
+
+    myDiv = document.getElementById("previousButton");
+    newDiv = myDiv.cloneNode(false);
+    myDiv.parentNode.replaceChild(newDiv, myDiv);
+
+    clearInterval(intervalId);
 }
 
 showPage('book');
