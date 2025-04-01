@@ -67,7 +67,7 @@ function handlePersonClick(person) {
             <div id="personHeight" class="person-attribute">Knowledge: ${person.rating.knowledge}</div>
         `;
     }
-    document.getElementById('personInfo').innerHTML += `<div id="personComments" class="person-comments">${person.comments[0]}</div>`;
+    document.getElementById('personInfo').innerHTML += `<div id="personComments" class="person-comments">${person.comments[Math.floor(Math.random() * Object.keys(person.comments).length)]}</div>`;
 
     document.getElementById('nextButton').addEventListener('click', () => {changePicture("next", person)});
     document.getElementById('previousButton').addEventListener('click', () => {changePicture("previous", person)});
@@ -103,7 +103,7 @@ function calculateAge(birthdayString) {
 }
 
 function changePicture(direction, person) {
-    let activeImage = "";
+    let activeImage;
 
     if (isStudent(person)) {
         activeImage = "image/student/" + document.getElementById('personItemOpen').src.split('image/student/')[1];
@@ -113,7 +113,7 @@ function changePicture(direction, person) {
 
     let activeImageIndex = 0;
 
-    for(i = 0; i < Object.keys(person.image).length; i++) {
+    for(let i = 0; i < Object.keys(person.image).length; i++) {
         if (person.image[i] === activeImage) {
             activeImageIndex = i;
             break;
