@@ -43,19 +43,84 @@ async function loadPeople(type) {
 }
 
 function handlePersonClick(person) {
-    const isStudent = true
-
     document.getElementById('personItemPage').style.display = 'block';
 
     document.getElementById('personItemOpen').src = person.image[0];
     document.getElementById('personName').textContent = person.name;
+    document.getElementById('personInfo').innerHTML = ``;
+    document.getElementById('personDescription').textContent = person.description;
 
-    if(isStudent) {
-        const personInfo = document.getElementById('personInfo');
-        personInfo.innerHTML =
-            '<div id="personBirthday" class="person-attribute">Birthday: 1.1.2000</div>\n' +
-            '<div id="personNationality" class="person-attribute">Nationality: America</div>';
+    if (isStudent(person)) {
+        document.getElementById('personInfo').innerHTML += `
+            <div id="personHeight" class="person-attribute">Height: ${person.height}</div>
+            <div id="personBirthday" class="person-attribute">Birthday: ${person.birthday}</div>
+            <div id="personNationality" class="person-attribute">Nationality: ${person.nationality}</div>
+            <div id="personGender" class="person-attribute">Gender: ${person.gender}</div>
+            <div id="personComments" class="person-comments">${person.comments[0]}</div>
+        `;
+    } else {
+        document.getElementById('personInfo').innerHTML += `
+            <div id="personComments" class="person-comments">${person.comments[0]}</div>
+        `;
     }
+
+    function nextButtonHandler() {
+        changePicture('next', person);
+    }
+
+    function previousButtonHandler() {
+        changePicture('previous', person);
+    }
+
+    document.getElementById('personContainer').innerHTML += `
+            <div id="nextButton" class="next-button" onclick=nextButtonHandler></div>
+            <div id="previousButton" class="previous-button" onclick=previousButtonHandler></div>
+        `;
+
+    let commentIndex = 1;
+    const comments = person.comments;
+    const commentsLength = Object.keys(comments).length
+
+    setInterval(() => {
+        if (comments && commentsLength > 0) {
+            document.getElementById('personComments').textContent = comments[commentIndex];
+            commentIndex = (commentIndex + 1) % commentsLength;
+        }
+    }, 5000);
+}
+
+function changePicture(direction, person) {
+    let activeImage = "";
+
+    console.log(person.name);
+
+    if (isStudent(person)) {
+        activeImage = "image/student/" + document.getElementById('personItemOpen').src.split('image/student/')[1];
+    }else{
+        activeImage = "image/teacher/" + document.getElementById('personItemOpen').src.split('image/teacher/')[1];
+    }
+
+    let activeImageIndex = 0;
+
+    for(i = 0; i < Object.keys(person.image).length; i++) {
+        if (person.image[i] === activeImage) {
+            activeImageIndex = i;
+            break;
+        }
+    }
+
+    (direction === 'next') ? activeImageIndex ++ : activeImageIndex--;
+
+    if (activeImageIndex < 0)
+        activeImageIndex = Object.keys(person.image).length - 1;
+    else if (activeImageIndex >= Object.keys(person.image).length)
+        activeImageIndex = 0;
+
+    document.getElementById('personItemOpen').src = person.image[activeImageIndex];
+}
+
+function isStudent(person){
+    return person.hasOwnProperty('height');
 }
 
 async function loadPictures() {

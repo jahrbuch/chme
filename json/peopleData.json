@@ -4,91 +4,155 @@
       "name": "Teacher 1",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 2",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 3",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 4",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 5",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 6",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 7",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 8",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 9",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 10",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 11",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
-    },
-    {
+    },{
       "name": "Teacher 12",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     },
     {
       "name": "Teacher 13",
       "image": {
         "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-pic.png"
+        "1": "image/teacher/teacher-second-pic.png"
+      },
+      "description": "Always a good Teacher",
+      "comments": {
+        "0": "Best Teacher",
+        "1": "~Lern and Study~"
       }
     }
   ],
@@ -97,126 +161,320 @@
       "name": "Student 1",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 2",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 3",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 4",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 5",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 6",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 7",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 8",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 9",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 10",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 11",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 12",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 13",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 14",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 15",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 16",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 17",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     },
     {
       "name": "Student 18",
       "image": {
         "0": "image/student/student-pic.png",
-        "1": "image/student/student-pic.png"
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
+      }
+    },
+    {
+      "name": "Student 19",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
+      }
+    },
+    {
+      "name": "Student 20",
+      "image": {
+        "0": "image/student/student-pic.png",
+        "1": "image/student/student-second-pic.png"
+      },
+      "height": "70",
+      "birthday": "1.1.2000",
+      "nationality": "America",
+      "gender": "Female",
+      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "comments": {
+        "0": "My BFF",
+        "1": "~No test is to hard~"
       }
     }
   ]

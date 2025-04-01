@@ -2,7 +2,7 @@
 
 Here is a step-by-step tutorial on how to create your own page using my template:  
 
-1. Navigate to the [Template](https://github.com/Stoniye/Yearbook-template) site.  
+1. Navigate to the [Template](https://github.com/Stoniye/Yearbook-Template) site.  
 2. Click on the "Fork" button.  
 3. In the "Repository name" field, enter your class name.  
 4. Click on "Create Fork."  
