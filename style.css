@@ -112,7 +112,7 @@ body {
     gap: 10px;
 }
 
-.gallery-item img {
+.gallery-item img, .gallery-item video {
     width: 100%;
     height: auto;
     border-radius: 12px;
@@ -133,6 +133,15 @@ body {
 }
 
 .gallery-item-open {
+    max-width: 85%;
+    max-height: 80%;
+    object-fit: contain;
+    border-radius: 13px;
+    display: block;
+    margin: 50px auto;
+}
+
+.gallery-item-video-open {
     max-width: 85%;
     max-height: 80%;
     object-fit: contain;

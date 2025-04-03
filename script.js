@@ -10,7 +10,6 @@ document.querySelectorAll('.book-nav-icon').forEach(button => {
     button.addEventListener('click', () => loadPeople(button.dataset.type));
 });
 
-document.getElementById('imageCloseButton').addEventListener('click', closeImage);
 document.getElementById('personCloseButton').addEventListener('click', closePerson);
 
 function showPage(pageId) {
@@ -106,9 +105,9 @@ function changePicture(direction, person) {
     let activeImage;
 
     if (isStudent(person)) {
-        activeImage = "image/student/" + document.getElementById('personItemOpen').src.split('image/student/')[1];
+        activeImage = "image/student/" + document.getElementById('personItemOpen').src.split('image/student/')[1].replaceAll("%20", " ");
     }else{
-        activeImage = "image/teacher/" + document.getElementById('personItemOpen').src.split('image/teacher/')[1];
+        activeImage = "image/teacher/" + document.getElementById('personItemOpen').src.split('image/teacher/')[1].replaceAll("%20", " ");
     }
 
     let activeImageIndex = 0;
@@ -151,16 +150,38 @@ async function loadPictures() {
     data.pictures.forEach((pic, index) => {
         const picDiv = document.createElement('div');
         picDiv.className = 'gallery-item';
-        picDiv.innerHTML = `<img src="${pic.image}" alt="Image" data-path="${pic.image}">`;
+
+        if (pic.image.includes(".mp4")){
+            picDiv.innerHTML = `<video src="${pic.image}" alt="Video" data-path="${pic.image}">`;
+        } else{
+            picDiv.innerHTML = `<img src="${pic.image}" alt="Image" data-path="${pic.image}">`;
+        }
         columns[index % columnCount].appendChild(picDiv);
     });
 
-    document.querySelectorAll('.gallery-item img').forEach(img => {
+    document.querySelectorAll('.gallery-item img, .gallery-item video').forEach(img => {
         img.addEventListener('click', () => {
-            document.getElementById('galleryItemOpen').src = img.dataset.path;
-            document.getElementById('galleryItemPage').style.display = 'block';
+            openImage(img.dataset.path)
         });
     });
+}
+
+function openImage(path) {
+    const container = document.getElementById('galleryItemPage');
+    container.innerHTML = '<button class="close-button" aria-label="Close image" id="imageCloseButton"></button>';
+
+    if (path.includes(".mp4")) {
+        container.innerHTML += '<video controls class="gallery-item-video-open">\n' +
+            '  <source src="" type="video/mp4" id="galleryItemVideoOpen"> Your browser does not support the video tag.\n' +
+            '</video>';
+        document.getElementById('galleryItemVideoOpen').src = path;
+    } else {
+        container.innerHTML += '<img id="galleryItemOpen" class="gallery-item-open" src="" alt=""/>';
+        document.getElementById('galleryItemOpen').src = path;
+
+    }
+    document.getElementById('imageCloseButton').addEventListener('click', closeImage);
+    document.getElementById('galleryItemPage').style.display = 'block';
 }
 
 function closeImage() {
