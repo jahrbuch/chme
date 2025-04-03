@@ -152,7 +152,12 @@ async function loadPictures() {
         picDiv.className = 'gallery-item';
 
         if (pic.image.includes(".mp4")){
-            picDiv.innerHTML = `<video src="${pic.image}" alt="Video" data-path="${pic.image}">`;
+            picDiv.innerHTML = `<div style="position: relative; display: inline-block;">
+                  <video src="${pic.image}" alt="Video" data-path="${pic.image}" style="width: 100%; height: auto;"></video>
+                  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                    <button style="background-color: rgba(0, 0, 0, 0.5); border: none; padding: 10px 20px; border-radius: 5px; color: white; cursor: pointer;">▶ Play</button>
+                  </div>
+                </div>`;
         } else{
             picDiv.innerHTML = `<img src="${pic.image}" alt="Image" data-path="${pic.image}">`;
         }
