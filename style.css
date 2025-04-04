@@ -303,3 +303,37 @@ body {
 .close-button::after {
     transform: rotate(-45deg);
 }
+
+.persons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+.persons-person {
+    width: 160px;
+    margin: 0 10px;
+    background-color: #3A3A3A;
+    border-radius: 13px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+    bottom: 100px;
+}
+
+.persons-person img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 13px;
+}
+
+.persons-person p {
+    margin: 5px;
+    font-family: sans-serif;
+    font-size: 16px;
+}

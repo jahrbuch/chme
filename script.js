@@ -47,6 +47,9 @@ function handlePersonClick(person) {
 
     document.getElementById('personItemOpen').src = person.image[0];
     document.getElementById('personName').textContent = person.name;
+    if (person.hasOwnProperty('nickname')){
+        document.getElementById('personName').textContent = person.name + " (aka. " + person.nickname + ")";
+    }
     document.getElementById('personInfo').innerHTML = ``;
     document.getElementById('personDescription').textContent = person.description;
 
@@ -159,32 +162,42 @@ async function loadPictures() {
                   </div>
                 </div>`;
         } else{
-            picDiv.innerHTML = `<img src="${pic.image}" alt="Image" data-path="${pic.image}">`;
+            picDiv.innerHTML = `<img src="${pic.image}" alt="Image" data-data='${JSON.stringify(pic)}'>`;
         }
         columns[index % columnCount].appendChild(picDiv);
     });
 
     document.querySelectorAll('.gallery-item img, .gallery-item video').forEach(img => {
         img.addEventListener('click', () => {
-            openImage(img.dataset.path)
+            openImage(JSON.parse(img.dataset.data));
         });
     });
 }
 
-function openImage(path) {
+function openImage(data) {
     const container = document.getElementById('galleryItemPage');
+    const path = data.image;
     container.innerHTML = '<button class="close-button" aria-label="Close image" id="imageCloseButton"></button>';
 
     if (path.includes(".mp4")) {
         container.innerHTML += '<video controls class="gallery-item-video-open">\n' +
-            '  <source src="" type="video/mp4" id="galleryItemVideoOpen"> Your browser does not support the video tag.\n' +
+            `<source src="${path}" type="video/mp4" id="galleryItemVideoOpen"> Your browser does not support the video tag.\n` +
             '</video>';
-        document.getElementById('galleryItemVideoOpen').src = path;
     } else {
-        container.innerHTML += '<img id="galleryItemOpen" class="gallery-item-open" src="" alt=""/>';
-        document.getElementById('galleryItemOpen').src = path;
-
+        container.innerHTML += `<img id="galleryItemOpen" class="gallery-item-open" src="${path}" alt=""/>`;
     }
+
+    container.innerHTML += '<div class="persons-container" id="personsContainer"></div>'
+    const personsContainer = document.getElementById('personsContainer');
+
+    for (let i = 0; i < Object.keys(data.persons).length; i++) {
+        personsContainer.innerHTML +=
+            '<div class="persons-person">' +
+                `<img src="image/student/${data.persons[i]} - 1.png" alt="Picture">\n` +
+                `<p>${data.persons[i]}</p>\n` +
+            '</div>';
+    }
+
     document.getElementById('imageCloseButton').addEventListener('click', closeImage);
     document.getElementById('galleryItemPage').style.display = 'block';
 }

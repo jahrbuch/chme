@@ -1,17 +1,17 @@
 {
   "pictures": [
-    { "image": "image/pictures/picture-1.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-2.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-3.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-4.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-5.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-6.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-7.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-8.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-9.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-10.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-11.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-12.jpg", "persons":  {}},
-    { "image": "image/pictures/picture-13.jpg", "persons":  {}}
+    { "image": "image/pictures/picture-1.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-2.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-3.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-4.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-5.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-6.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-7.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-8.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-9.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-10.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-11.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-12.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}},
+    { "image": "image/pictures/picture-13.jpg", "persons":  {"0":  "James Paul", "1":  "James Paul"}}
   ]
 }
