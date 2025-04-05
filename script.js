@@ -159,7 +159,7 @@ async function loadPictures() {
 
         if (pic.image.includes(".mp4")){
             picDiv.innerHTML = `<div style="position: relative; display: inline-block;">
-                  <video src="${pic.image}" alt="Video" data-path="${pic.image}" style="width: 100%; height: auto;"></video>
+                  <video src="${pic.image}" alt="Video" data-data='${JSON.stringify(pic)}' style="width: 100%; height: auto;"></video>
                   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
                     <button style="background-color: rgba(0, 0, 0, 0.5); border: none; padding: 10px 20px; border-radius: 5px; color: white; cursor: pointer;">▶ Play</button>
                   </div>
