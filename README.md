@@ -15,14 +15,16 @@ Here is a step-by-step tutorial on how to create your own page using my template
 
 ---
 
-## How to Add Your Own Students, Teachers, and Pictures  
+## How customize the Website  
 
 - Upload all pictures to the `image/pictures` folder. (supported: .png, .jpeg, .jpg)
 - Upload student pictures to the `image/student` folder. (supported: .png, .jpeg, .jpg)
-- Upload teacher pictures to the `image/teacher` folder. (supported: .png, .jpeg, .jpg, .mp4) 
+- Upload teacher pictures to the `image/teacher` folder. (supported: .png, .jpeg, .jpg, .mp4)
 
-Next, navigate to the `json` folder. Inside, you'll find two files: `peopleData.json` and `pictureData.json`.  
-These files allow you to add students, teachers, and pictures. I have included some examples to show you how the system works.  
+Next, navigate to the `json` folder. Inside, you'll find two files: `peopleData.json` and `pictureData.json`. 
+These files allow you to add students, teachers, and pictures. I have included some examples to show you how the system works.
+
+You can also edit the `languageData.json` to customize the language
 
 Once you've made your changes, click **"Commit changes."** GitHub will take a few minutes to process, and your website will be updated with your new pictures.  
 

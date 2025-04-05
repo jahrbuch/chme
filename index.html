@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body>
+<body onload="onLoad()">
 
 <nav class="navbar">
     <button class="nav-icon" data-page="book">
@@ -22,8 +22,8 @@
 
 <section id="bookPage" class="page book-page">
     <nav class="book-navbar">
-        <button class="book-nav-icon" data-type="teacher">Teachers</button>
-        <button class="book-nav-icon" data-type="student">Students</button>
+        <button id="teachersLabel" class="book-nav-icon" data-type="teacher">Teachers</button>
+        <button id="studentsLabel" class="book-nav-icon" data-type="student">Students</button>
     </nav>
     <div class="people-container"></div>
 </section>

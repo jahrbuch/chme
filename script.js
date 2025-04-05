@@ -1,5 +1,6 @@
 const peopleData = fetch('json/peopleData.json').then(res => res.json());
 const pictureData = fetch('json/pictureData.json').then(res => res.json());
+const languageData = fetch('json/languageData.json').then(res => res.json());
 let intervalId;
 
 document.querySelectorAll('.nav-icon').forEach(button => {
@@ -42,7 +43,9 @@ async function loadPeople(type) {
     });
 }
 
-function handlePersonClick(person) {
+async function handlePersonClick(person) {
+    const languageDataLoaded = await languageData;
+
     document.getElementById('personItemPage').style.display = 'block';
 
     document.getElementById('personItemOpen').src = person.image[0];
@@ -55,18 +58,18 @@ function handlePersonClick(person) {
 
     if (isStudent(person)) {
         document.getElementById('personInfo').innerHTML += `
-            <div id="personHeight" class="person-attribute">Height: ${person.height}</div>
-            <div id="personBirthday" class="person-attribute">Birthday: ${person.birthday} (${calculateAge(person.birthday)})</div>
-            <div id="personNationality" class="person-attribute">Nationality: ${person.nationality}</div>
-            <div id="personGender" class="person-attribute">Gender: ${person.gender}</div>
+            <div id="personHeight" class="person-attribute">${languageDataLoaded.height}: ${person.height}</div>
+            <div id="personBirthday" class="person-attribute">${languageDataLoaded.birthday}: ${person.birthday} (${calculateAge(person.birthday)})</div>
+            <div id="personNationality" class="person-attribute">${languageDataLoaded.nationality}: ${person.nationality}</div>
+            <div id="personGender" class="person-attribute">${languageDataLoaded.gender}: ${person.gender}</div>
         `;
     } else {
         document.getElementById('personInfo').innerHTML += `
-            <div id="personHeight" class="person-header">Rating:</div>
-            <div id="personHeight" class="person-attribute">Personality: ${person.rating.personality}</div>
-            <div id="personHeight" class="person-attribute">Lesson: ${person.rating.lesson}</div>
-            <div id="personHeight" class="person-attribute">Grading: ${person.rating.grading}</div>
-            <div id="personHeight" class="person-attribute">Knowledge: ${person.rating.knowledge}</div>
+            <div id="personRating" class="person-header">${languageDataLoaded.rating}:</div>
+            <div id="personPersonality" class="person-attribute">${languageDataLoaded.personality}: ${person.rating.personality}</div>
+            <div id="personLession" class="person-attribute">${languageDataLoaded.lesson}: ${person.rating.lesson}</div>
+            <div id="personGrading" class="person-attribute">${languageDataLoaded.grading}: ${person.rating.grading}</div>
+            <div id="personKnowledge" class="person-attribute">${languageDataLoaded.knowledge}: ${person.rating.knowledge}</div>
         `;
     }
     document.getElementById('personInfo').innerHTML += `<div id="personComments" class="person-comments">${person.comments[Math.floor(Math.random() * Object.keys(person.comments).length)]}</div>`;
@@ -220,4 +223,13 @@ function closePerson() {
     clearInterval(intervalId);
 }
 
-showPage('book');
+function onLoad() {
+    showPage('book');
+    loadLanguage();
+}
+
+async function loadLanguage() {
+    const data = await languageData;
+    document.getElementById('teachersLabel').textContent = data.teachers;
+    document.getElementById('studentsLabel').textContent = data.students;
+}
