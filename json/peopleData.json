@@ -1,542 +1,1270 @@
 {
   "teachers": [
     {
-      "name": "Teacher 1",
+      "name": "Aichinger Joachim",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Aichinger Joachim.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
+        "personality": 2.8,
+        "lesson": 2.2,
         "grading": 2,
-        "knowledge": 2
+        "knowledge": 2.1
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Scheiß Trafo wickeln",
+        "1": "~Wenn die Maschine ned funktioniert, dann hots sicha a HTLer gmocht~",
+        "2": "Bro hot immer über des selbstfahrende Auto gredt aber wir hobens nie gmocht",
+        "3": "Richtig interessanter typ"
       }
     },
     {
-      "name": "Teacher 2",
+      "name": "Baldinger Martin",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Baldinger Martin.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
+        "personality": 1.3,
+        "lesson": 4.5,
+        "grading": 1.3,
         "knowledge": 2
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "\uD83D\uDC4D\uD83C\uDFFB",
+        "1": "Kaffeepause?",
+        "2": "\uD83D\uDE4F\uD83D\uDC4C",
+        "3": "Kaffee",
+        "4": "Mein eoty (Elektriker of the year)",
+        "5": "Ein Löwe",
+        "6": "Macher",
+        "7": "~Meine Herren heid hom ma brav goabeit, dann kinnan ma jetzt schluss mochen~",
+        "8": "Hod Epische emotes in seim Emote wheel",
+        "9": "Aaaaaaalllesss Gut",
+        "10": "Bester Lehrer charakterlich gesehen"
       }
     },
     {
-      "name": "Teacher 3",
+      "name": "Brunnthaler Manfred",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Brunnthaler Manfred.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
+        "personality": 2.3,
+        "lesson": 3,
+        "grading": 2.1,
         "knowledge": 2
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Mog i ned",
+        "1": "Immer gut vor Corona geschützt",
+        "2": "Sei Coronaschild woa crazy",
+        "3": "Sportlichster Lehrer",
+        "4": "Beste haltung beim PC",
+        "5": "Geodreieck, Maske, Plastikschild als Coronaschutz"
       }
     },
     {
-      "name": "Teacher 4",
+      "name": "Dißlbacher-Fink Armin",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Dißlbacher-Fink Armin.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
+        "personality": 2.8,
+        "lesson": 3.4,
+        "grading": 3.2,
         "knowledge": 2
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Korrekte Zechn",
+        "1": "Vallah größter Ehrenmann",
+        "2": "Ceo vom beim Indiya essen gehen",
+        "3": "Alles 1, top typ in jeder Hinsicht"
       }
     },
     {
-      "name": "Teacher 5",
+      "name": "Ebner Bernhard",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Ebner Bernhard.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 2.4,
+        "lesson": 2.7,
+        "grading": 3.2,
+        "knowledge": 4.3
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Gandalf",
+        "1": "Full Stop",
+        "2": "Sandmändchen",
+        "3": "Kommunist",
+        "4": "Schaut aus wie Gandalf",
+        "5": "~Why are you actin so weird again?~",
+        "6": "Verpennt"
       }
     },
     {
-      "name": "Teacher 6",
+      "name": "Dietmar Eckl",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Dietmar Eckl.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 3,
+        "lesson": 2.7,
+        "grading": 2.1,
+        "knowledge": 2.5
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Ich hasse verkabeln",
+        "1": "So ein Hund in der Wickel-Werkstätte"
       }
     },
     {
-      "name": "Teacher 7",
+      "name": "Eppacher Thomas",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Eppacher Thomas.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
+        "personality": 3.2,
+        "lesson": 1.3,
+        "grading": 1.2,
         "knowledge": 2
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "~Was in Kroatien passiert, bleibt in Kroatien~",
+        "1": "regionaler Tom cruise",
+        "2": "~Corona is goa ned so schlimm, losts eich auf kan feu impfen~",
+        "3": "~Heid is eh so a scheens wetter, gemma ausi a boa runden laufen~",
+        "4": "Hod warscheinlich wos mit ollen Putzfraun in da Schui"
       }
     },
     {
-      "name": "Teacher 8",
+      "name": "Furthmoser Gerhard",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Furthmoser Gerhard.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 2.3,
+        "lesson": 2.7,
+        "grading": 1.8,
+        "knowledge": 2.3
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Oana der besten",
+        "1": "Mein Löwe mein Bär"
       }
     },
     {
-      "name": "Teacher 9",
+      "name": "Gangl Andreas",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Gangl Andreas.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 3.2,
+        "lesson": 3.5,
+        "grading": 2.5,
+        "knowledge": 2.8
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Bosnapause",
+        "1": "\uD83D\uDCA4\uD83D\uDCA4\uD83D\uDCA4",
+        "2": "Kurz vor Tot",
+        "3": "Der Hund stinkt bestialisch",
+        "4": "Rechenzentrum",
+        "5": "Stinkbombe",
+        "6": "zzz",
+        "7": "~I gib eich jetzt 1 Stund zeit fia die aufgob \uD83D\uDCA4\uD83D\uDCA4\uD83D\uDCA4~"
       }
     },
     {
-      "name": "Teacher 10",
+      "name": "Gurtner Johann",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Gurtner Johann.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 2.3,
+        "lesson": 2.8,
+        "grading": 2.2,
+        "knowledge": 2.3
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Nix zu sogen"
       }
     },
     {
-      "name": "Teacher 11",
+      "name": "Haslauer Siegfreid",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Haslauer Siegfreid.png"
       },
       "rating": {
-        "personality": 2,
-        "lesson": 2,
-        "grading": 2,
-        "knowledge": 2
+        "personality": 2.3,
+        "lesson": 2.5,
+        "grading": 2.1,
+        "knowledge": 2.8
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Ha ha ha ha ha hust hust … Raucherpause",
+        "1": "Mehr Stunden im Monat am Rauchen, als Mike an der Diplomarbeit oabeit",
+        "2": "Olle 10 Minuten muss er kurz wo hin (Amoi gschwind a schachtel rauchen)",
+        "3": "Mehr Rauch in der Lunge als Sauerstoff",
+        "4": "Zigarettenautomat",
+        "5": "Der lebende Schornstein der HTL"
       }
     },
     {
-      "name": "Teacher 12",
+      "name": "Hennebichler Alfred",
       "image": {
-        "0": "image/teacher/teacher-pic.png",
-        "1": "image/teacher/teacher-second-pic.png"
+        "0": "image/teacher/Haslauer Siegfreid.png"
       },
       "rating": {
-        "personality": 2,
+        "personality": 2.4,
+        "lesson": 2.6,
+        "grading": 2.5,
+        "knowledge": 2.2
+      },
+      "description": "",
+      "comments": {
+        "0": "Drache",
+        "1": "Wäre fast zweimal in seiner Werkstätte draufgegangen",
+        "2": "Knochenbrecher",
+        "3": "Schweißt afoch ohne brille"
+      }
+    },
+    {
+      "name": "Hintergberger Manfred",
+      "image": {
+        "0": "image/teacher/Hintergberger Manfred.png"
+      },
+      "rating": {
+        "personality": 1.8,
+        "lesson": 2.9,
+        "grading": 1.8,
+        "knowledge": 2.8
+      },
+      "description": "",
+      "comments": {
+        "0": "Hima seine Bienen auf die 1",
+        "1": "~Ihr kinnts vo mir aus ham geh, aber des habts ihr ned vo mir~",
+        "2": "Imker",
+        "3": "Bieeeenen"
+      }
+    },
+    {
+      "name": "Hofinger Manfred",
+      "image": {
+        "0": "image/teacher/Hofinger Manfred.png"
+      },
+      "rating": {
+        "personality": 3.1,
+        "lesson": 4.2,
+        "grading": 3.2,
+        "knowledge": 2.4
+      },
+      "description": "",
+      "comments": {
+        "0": "Super Typ! Hilfe, werde Bedroht (is mei DA-Lehrer)",
+        "1": "~Meine Herren schoitens kurz de Monitore aus bitte~",
+        "2": "Erklärchef",
+        "3": "~Meine Herren schoitens de monitore aus des kunnt de Allgemeinheit interessieren~",
+        "4": "~So das könnte für alle wichtig sein~",
+        "5": "~Euso in meim Zeitplan ged si des leicht aus~"
+      }
+    },
+    {
+      "name": "Holl Bettina",
+      "image": {
+        "0": "image/teacher/Holl Bettina.png"
+      },
+      "rating": {
+        "personality": 1.2,
         "lesson": 2,
-        "grading": 2,
+        "grading": 3,
+        "knowledge": 1.4
+      },
+      "description": "",
+      "comments": {
+        "0": "Traum",
+        "1": "Mehr Zeit verbracht am Schüler mobben, als wirkli unterrichten",
+        "2": "Danke für die Smarties bei der Letzten Schularbeit",
+        "3": "Beste Frau Bruder",
+        "4": "I schwör eig hätt i bessere Note verdient aber im Großen und Ganzen werd is a vermissn",
+        "5": "Wer steht bitte ned auf sie"
+      }
+    },
+    {
+      "name": "Huml Mathias",
+      "image": {
+        "0": "image/teacher/Huml Mathias.png"
+      },
+      "rating": {
+        "personality": 1.2,
+        "lesson": 3.1,
+        "grading": 2.8,
+        "knowledge": 1.5
+      },
+      "description": "",
+      "comments": {
+        "0": "Kescher Kerl",
+        "1": "Da Sumsi",
+        "2": "chilliger Typ",
+        "3": "Er auch Löwe",
+        "4": "CEO of chef sein",
+        "5": "~Geht eh um nichs~",
+        "6": "Besta Mann persönlich gesehen",
+        "7": "~I frisia dawei mein Insta~"
+      }
+    },
+    {
+      "name": "Laage Robin",
+      "image": {
+        "0": "image/teacher/Laage Robin.png"
+      },
+      "rating": {
+        "personality": 4.2,
+        "lesson": 4.2,
+        "grading": 2.9,
+        "knowledge": 3.2
+      },
+      "description": "",
+      "comments": {
+        "0": "Unsympatler",
+        "1": "Da Sumsi",
+        "2": "I mag erm ned",
+        "3": "Vllt sogar größer als Nagy",
+        "4": "Netzwerkchef",
+        "5": "Dirk nowitzki"
+      }
+    },
+    {
+      "name": "Lehner Christian",
+      "image": {
+        "0": "image/teacher/Lehner Christian.png"
+      },
+      "rating": {
+        "personality": 2.8,
+        "lesson": 3.2,
+        "grading": 2.8,
+        "knowledge": 1.8
+      },
+      "description": "",
+      "comments": {
+        "0": "~Wo soid i do onfonga~",
+        "1": "~wHy tHAt?!?!?~",
+        "2": "10 Englische wörter in einem Satz mit 5 Wörter",
+        "3": "~A Koordinatensystem homma imma dabeiiiiii~",
+        "4": "imma dabei meine Heren",
+        "5": "~Kurt kriagt an 3er, aber mit NULL plus~",
+        "6": "Dank erm wasi dass i immer a Koordinatensystem dabei hob fois ma moi schlecht geht"
+      }
+    },
+    {
+      "name": "Leindecker Rudolf",
+      "image": {
+        "0": "image/teacher/Leindecker Rudolf.png"
+      },
+      "rating": {
+        "personality": 2.6,
+        "lesson": 2.3,
+        "grading": 2.3,
+        "knowledge": 2.8
+      },
+      "description": "",
+      "comments": {
+        "0": "Habe in glaub i 3 moi bis jetzt gesehen, obwoi i erm in Labor hob",
+        "1": "Meister vom ned do sei",
+        "2": "Bester unterricht weil ereh ned anwesend is",
+        "3": "Ged immer einfoch und kumt maby goa nimma"
+      }
+    },
+    {
+      "name": "Mair Alois.png",
+      "image": {
+        "0": "image/teacher/Mair Alois.png"
+      },
+      "rating": {
+        "personality": 3.4,
+        "lesson": 3.4,
+        "grading": 2.8,
+        "knowledge": 2.7
+      },
+      "description": "",
+      "comments": {
+        "0": "Zach",
+        "1": "Kaiser von Htl",
+        "2": "Mei ehemaliger KV",
+        "3": "Der geborene Mechatroniker"
+      }
+    },
+    {
+      "name": "Mayrhofer David",
+      "image": {
+        "0": "image/teacher/Mayrhofer David.png"
+      },
+      "rating": {
+        "personality": 1.3,
+        "lesson": 2.5,
+        "grading": 1.9,
+        "knowledge": 2.1
+      },
+      "description": "",
+      "comments": {
+        "0": "Wahnsinns Typ",
+        "1": "<3",
+        "2": "Der erste wirklich chillige Lehrer bei dem ich am meisten Englisch gelernt habe",
+        "3": "King, mei fuasboikolleg"
+      }
+    },
+    {
+      "name": "Mikschick Bernhard",
+      "image": {
+        "0": "image/teacher/Mikschick Bernhard.png"
+      },
+      "rating": {
+        "personality": 2.9,
+        "lesson": 3.2,
+        "grading": 2.8,
+        "knowledge": 3
+      },
+      "description": "",
+      "comments": {
+        "0": "Wie sogt a Tiroler zur Banane? … Banane Kr",
+        "1": "~Guten Murgen~",
+        "2": "~Wos is a Projekrrrrt?~",
+        "3": "Tirol",
+        "4": "~BITTTTEEEEE?~"
+      }
+    },
+    {
+      "name": "Moosmayr Alexander",
+      "image": {
+        "0": "image/teacher/Moosmayr Alexander.png"
+      },
+      "rating": {
+        "personality": 3.9,
+        "lesson": 3,
+        "grading": 1.2,
+        "knowledge": 4.5
+      },
+      "description": "",
+      "comments": {
+        "0": "Ratte",
+        "1": "Scheißt uns gern zsam!",
+        "2": "Ständig Besoffen",
+        "3": "Drangler",
+        "4": "Isma bis heid a Mysterium"
+      }
+    },
+    {
+      "name": "Nagy Zsolt",
+      "image": {
+        "0": "image/teacher/Nagy Zsolt.png"
+      },
+      "rating": {
+        "personality": 2.9,
+        "lesson": 3,
+        "grading": 3,
+        "knowledge": 1.2
+      },
+      "description": "",
+      "comments": {
+        "0": "Kon ma lossn",
+        "1": "Rechnet lieber mit Formeln, als mit Zahlen",
+        "2": "~OIDA FUCHS~",
+        "3": "I schwör sogar er is bester Mann",
+        "4": "Henker",
+        "5": "Der Endgegner",
+        "6": "~Grundlagen Elektrotechnik meine herrn~",
+        "7": "Oiso am anfang hoda ma bissl angst gemacht, jz isa aner meina lieblingslwhrer a wenn er mi öfters disst"
+      }
+    },
+    {
+      "name": "Obwaller Rainer",
+      "image": {
+        "0": "image/teacher/Obwaller Rainer.png"
+      },
+      "rating": {
+        "personality": 1.8,
+        "lesson": 1.8,
+        "grading": 2.8,
+        "knowledge": 1
+      },
+      "description": "",
+      "comments": {
+        "0": "Chef",
+        "1": "~Nach Adam Riese~",
+        "2": "Bester AV",
+        "3": "König",
+        "4": "Unser Chef is natürlich a Maschine",
+        "5": "Papst der Mechanik",
+        "6": "Der Lehrer der immer jammert weil er zu viel zu tun hat und sich dann trotzdem Mechanik Suplierstunden einträgt zu welchen er dann nicht hin geht",
+        "7": "Super typ, jz muasa mi nur nu durchlossn des joa donn bini zufrieden"
+      }
+    },
+    {
+      "name": "Petermayr Gutrun",
+      "image": {
+        "0": "image/teacher/Petermayr Gutrun.png"
+      },
+      "rating": {
+        "personality": 2.3,
+        "lesson": 3.4,
+        "grading": 1.8,
         "knowledge": 2
       },
-      "description": "Always a good Teacher",
+      "description": "",
       "comments": {
-        "0": "Best Teacher",
-        "1": "~Lern and Study~"
+        "0": "Durchsetzungsvermögen vun ana Büroklammer",
+        "1": "Gibt ma imma mein 1er",
+        "2": "Netteste Lehrerin",
+        "3": "Frühstück und Recht werde ich am meisten vermissen",
+        "4": "Sie is super wer wos ondas sogt kheat midn kopf inkoide wossa dümpfüd"
+      }
+    },
+    {
+      "name": "Puntigam Rupert",
+      "image": {
+        "0": "image/teacher/Puntigam Rupert.png"
+      },
+      "rating": {
+        "personality": 3.8,
+        "lesson": 4,
+        "grading": 3.4,
+        "knowledge": 3
+      },
+      "description": "",
+      "comments": {
+        "0": "Nie irgendwos verstondn (Kana mog Chemie)",
+        "1": "Wehe, du erwähnst einmal des Wort \"reflektieren\"",
+        "2": "Der hot nur obgefuckt",
+        "3": "Mr Grüne Energie",
+        "4": "Sektenführer",
+        "5": "Verschwörungstheoretiker der alles durcheinander aufschreibt (Inhalt über die Überschrift)",
+        "6": "~Die wolken REFLEKTIERN ned, die STRAHLEN zruck~",
+        "7": "Mal cool, mal süß, mal anti klimatheoretiker, aber hod scho passt"
+      }
+    },
+    {
+      "name": "Sattlberger Franz",
+      "image": {
+        "0": "image/teacher/Sattlberger Franz.png"
+      },
+      "rating": {
+        "personality": 3.2,
+        "lesson": 4,
+        "grading": 2.4,
+        "knowledge": 3.8
+      },
+      "description": "",
+      "comments": {
+        "0": "Scheiß SAP",
+        "1": "SAP ist mein Kryptonit",
+        "2": "I hoss erm und sei Foch",
+        "3": "TGW",
+        "4": "Er hot was gegen mei Tastatur",
+        "5": "SAP IS KACKE",
+        "6": "Arbeitsvorbereitung ist unnötig",
+        "7": "S A P!!!",
+        "8": "schwul mitn Nöhammer",
+        "9": "#SAP 4 LIFE",
+        "10": "~deshoib is SAP so super~"
+      }
+    },
+    {
+      "name": "Schindler Dietmar",
+      "image": {
+        "0": "image/teacher/Schindler Dietmar.png"
+      },
+      "rating": {
+        "personality": 1.6,
+        "lesson": 2.8,
+        "grading": 2.7,
+        "knowledge": 1
+      },
+      "description": "",
+      "comments": {
+        "0": "Traum Lehrer",
+        "1": "Unterricht geht mir a bissi zu schnell",
+        "2": "Los i moi unkommentiert",
+        "3": "Sehr intelligent, macht sehr interessanten Unterricht aber viel viel zu schnell",
+        "4": "Eminem",
+        "5": "Konn a rochtig geil sei, oba wer erm bei \"benotung\" besser ois 5 gibt is verloren",
+        "6": "Woas jede norm auswendig",
+        "7": "Ged seina frau und kinder mit ana lehrerin fremd und griagt mit der a kind",
+        "8": "Kennt jede formel",
+        "9": "Rappt mechanische systeme schöller eus eminem"
       }
     }
   ],
   "students": [
     {
-      "name": "Student 1",
+      "name": "Brunmayr Markus",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Brunmayr Markus - 1.png",
+        "1": "image/student/Brunmayr Markus - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,82m",
+      "birthday": "10.3.2006",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
-      },
-      "nickname": "Study"
-    },
-    {
-      "name": "Student 2",
-      "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
-      },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
-      "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Geile Sau",
+        "1": "Is a Hunter, und mog ah a HunterFanta. Passt zom",
+        "2": "Arisch",
+        "3": "Alkoholiker",
+        "4": "Jäger",
+        "5": "Rauschkugel",
+        "6": "Rechtsradikaler Säufer",
+        "7": "Da Jäger der zu schnell Auto fährt",
+        "8": "Burschenschafft",
+        "9": "FPÖ endgegner",
+        "10": "beste Lacher",
+        "11": "voi sympathisch",
+        "12": "a echter Rauschler",
+        "13": "Chef der Eismauer"
       }
     },
     {
-      "name": "Student 3",
+      "name": "Büyükbas Mert",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Büyükbas Mert - 1.png",
+        "1": "image/student/Büyükbas Mert - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,91m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Sei Papa mocht guade Pizzn",
+        "1": "Guade Pizzen",
+        "2": "Lieblings-Türke",
+        "3": "Pizza",
+        "4": "Kebapchef",
+        "5": "Der könnte schon Familie mit zwei Kinder haben",
+        "6": "kleiner wie Nagi",
+        "7": "Mein löwe mein bär, my homie all the way along",
+        "8": "Clash of Clans"
       }
     },
     {
-      "name": "Student 4",
+      "name": "Cecon David",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Cecon David - 1.png",
+        "1": "image/student/Cecon David - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,81m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Traum Kaffeekollege",
+        "1": "Laufende Mitschrift",
+        "2": "CHEF VON GOTH BITCHES AUF INSTA",
+        "3": "Ohne ihn hätt ich diese Schule nicht geschafft yolo",
+        "4": "Hat die Beste Mitschrift",
+        "5": "Just a chill guy",
+        "6": "Mitschriftenmeister",
+        "7": "Da PAPAAAAAAA"
       }
     },
     {
-      "name": "Student 5",
+      "name": "Dantler Clemens",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Dantler Clemens - 1.png",
+        "1": "image/student/Dantler Clemens - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,78m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Kane 5 Sätze gredt",
+        "1": "Smart",
+        "2": "Eg eG Eggerding",
+        "3": "Fußballmaschine",
+        "4": "Netter Kerl",
+        "5": "Streber",
+        "6": "Dantlinho bester mann",
+        "7": "Eggendorf musikverein\uD83E\uDD1D"
       }
     },
     {
-      "name": "Student 6",
+      "name": "Durak Okay",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Durak Okay - 1.png",
+        "1": "image/student/Durak Okay - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,78m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Mog i",
+        "1": "NPC",
+        "2": "Macher",
+        "3": "Okay",
+        "4": "Keiner glaubt das Okay sein echter Name ist",
+        "5": "Unser NPC",
+        "6": "kqyre oooookkk traurig",
+        "7": "i love you canım benim"
       }
     },
     {
-      "name": "Student 7",
+      "name": "Fürlinger Marcel",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Fürlinger Marcel - 1.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "nickname": "Fürli",
+      "height": "1,75m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Tanzking",
+        "1": "Tanzkönig",
+        "2": "Düsenjets",
+        "3": "Kampfjets",
+        "4": "Dacing Star",
+        "5": "Der Tänzer",
+        "6": "Der Christbaumbauer",
+        "7": "Fürlobert",
+        "8": "FACC"
       }
     },
     {
-      "name": "Student 8",
+      "name": "Fürtner Valentin",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Fürtner Valentin - 1.png",
+        "1": "image/student/Fürtner Valentin - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,76m",
+      "birthday": "13.3.2006",
+      "nationality": "Österreich",
+      "gender": "Testosteron",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Armdrückprofi",
+        "1": "Maschine",
+        "2": "Minipeker",
+        "3": "Afoch a viech",
+        "4": "Komischer Mensch",
+        "5": "Devon Laratt",
+        "6": "Einfoch eine Maschine im Armdrücken oba a bissi komisch der Mann",
+        "7": "Trenbolone Acetate",
+        "8": "Muskulösester mensch den i kenn",
+        "9": "Voi liaba typ"
       }
     },
     {
-      "name": "Student 9",
+      "name": "Geier Moritz",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Geier Moritz - 1.png",
+        "1": "image/student/Geier Moritz - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "nickname": "Geia",
+      "height": "1,81m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Kante",
+        "1": "Maschine",
+        "2": "Mag Affen",
+        "3": "Außer geil nur geil",
+        "4": "Affenficker",
+        "5": "\uD83D\uDE48",
+        "6": "Der Mann ist die Hauptrolle in einem Highschoolmusical",
+        "7": "Geier bester und klügster mann",
+        "8": "Obwallers liebling"
       }
     },
     {
-      "name": "Student 10",
+      "name": "Hiebl David",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Hiebl David - 1.png",
+        "1": "image/student/Hiebl David - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,78m",
+      "birthday": "7.7.2006",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Komischer Vogi",
+        "1": "Sprengt gerne Dinge ind Luft",
+        "2": "Hob nu nie gseng dass er wos produktives duad in da stund"
       }
     },
     {
-      "name": "Student 11",
+      "name": "Hofbauer Fabio",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Hofbauer Fabio - 1.png",
+        "1": "image/student/Hofbauer Fabio - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "nickname": "Hofi",
+      "height": "1,79m",
+      "birthday": "18.5.2006",
+      "nationality": "Schleißheim",
+      "gender": "Adel",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Reiche geile Sau welcher echt cool drauf is",
+        "1": "Olles Geringverdiener do in da HTL…",
+        "2": "<3",
+        "3": "BMW Fan",
+        "4": "King",
+        "5": "Er siagt guad aus",
+        "6": "Rich as fuck oba gar nicht so abgehoben wie man denken würde",
+        "7": "~Eure Armut kotzt mich an!~"
       }
     },
     {
-      "name": "Student 12",
+      "name": "Jellmair Matthias",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Jellmair Matthias - 1.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,83m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Breiter ois de Tür erlaubt",
+        "1": "Rauschiger Muskelberg",
+        "2": "Breiter als der Türsteher",
+        "3": "JELLOOOO MEIN SCHATZIBÄRLI, my gym buddy, depression buddy und sitznachbar",
+        "4": "JELLO BLOS EINI INS HORN"
       }
     },
     {
-      "name": "Student 13",
+      "name": "Kogler Fabian",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Kogler Fabian - 1.png",
+        "1": "image/student/Kogler Fabian - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,84m",
+      "birthday": "5.6.2006",
+      "nationality": "Bad Aussee",
+      "gender": "Bier",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Bester Mann",
+        "1": "Alkoholiker",
+        "2": "vom Dorf",
+        "3": "ständig verletzt",
+        "4": "Bier",
+        "5": "Lecker Bierchen",
+        "6": "Säuft mich prolly untern Tisch",
+        "7": "Der Teilzeitalkoholiker aus Altaussee. Die Bräuche sind ihm heilig",
+        "8": "Schwerer Alki",
+        "9": "Nüchternster alkoholiker den i kenn",
+        "10": "Bester mann, hab nix negatives zu sagen"
       }
     },
     {
-      "name": "Student 14",
+      "name": "Krempl Matthias",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Krempl Matthias - 1.png",
+        "1": "image/student/Krempl Matthias - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "nickname": "Hias",
+      "height": "1,76m",
+      "birthday": "2.3.2006",
+      "nationality": "Ebensee",
+      "gender": "Unbekannt",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Megn ma",
+        "1": "Aublosn",
+        "2": "Der klane skifahrer aus Ebensee.",
+        "3": "EBENSEEEEEEEEEEEEE (oder doch mondsee?)"
       }
     },
     {
-      "name": "Student 15",
+      "name": "Kreuter Frederik",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Kreuter Frederik - 1.png",
+        "1": "image/student/Kreuter Frederik - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,83m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Basketballer",
+        "1": "Basketballprofi",
+        "2": "Da Basketballer",
+        "3": "Fred feuerstein du oide schnauzerkanon"
       }
     },
     {
-      "name": "Student 16",
+      "name": "Kronlachner David",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Kronlachner David - 1.png",
+        "1": "image/student/Kronlachner David - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,74m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Volvox Racer",
+        "1": "Megn ma",
+        "2": "Papagei",
+        "3": "Der klane",
+        "4": "Siehe maximilian thomas"
       }
     },
     {
-      "name": "Student 17",
+      "name": "Kurt Philipp",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Kurt Philipp - 1.png",
+        "1": "image/student/Kurt Philipp - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,83m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Chef der Klasse",
+        "1": "~I hoooooob beim Riooooooo gessn~",
+        "2": "Unsa Schülersprecher",
+        "3": "Der redet zu viel Scheiße",
+        "4": "Wer?",
+        "5": "Beste Mitschrift",
+        "6": "Aufdraht"
+      }
+    },{
+      "name": "Milic Gabriel",
+      "image": {
+        "0": "image/student/Milic Gabriel - 1.png",
+        "1": "image/student/Milic Gabriel - 2.png"
+      },
+      "height": "1,81m",
+      "birthday": "5.6.2005",
+      "nationality": "Classified",
+      "gender": "Classified",
+      "description": "",
+      "comments": {
+        "0": "Nussschnecken san sei lebn",
+        "1": "Da Ursprungs-ic",
+        "2": "<3",
+        "3": "Besser in deutsch als alle anderen",
+        "4": "Milic mei lieblings machretrenker und noch mir nr1 kantine investor",
+        "5": "Der mim E30",
+        "6": "~i bin ka Pessimist I bin Realist~"
       }
     },
     {
-      "name": "Student 18",
+      "name": "Mitterschaider Mike",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Mitterschaider Mike - 1.png",
+        "1": "image/student/Mitterschaider Mike - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "nickname": "Seitenschneider",
+      "height": "1,83m",
+      "birthday": "6.6.2004",
+      "nationality": "Kärten",
+      "gender": "Unbekannt",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Kärnten is komisch",
+        "1": "Drogenabhängig",
+        "2": "I was nd wie der die 5 Joa gschofft hot",
+        "3": "Drogenbraron aka Nichtsgönner aka Vater der sein Leben bereut",
+        "4": "Der is komisch",
+        "5": "Einfach nur komisch",
+        "6": "No filter"
       }
     },
     {
-      "name": "Student 19",
+      "name": "Mulahmetovic Anel",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Mulahmetovic Anel - 1.png",
+        "1": "image/student/Mulahmetovic Anel - 2.png"
       },
-      "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "height": "1,82m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "Möchtegern MMA",
+        "1": "Cevape maschine",
+        "2": "Danke das du mi im Labor so durchgecarried hast",
+        "3": "Wiso ist der so gut in Deutsch",
+        "4": "~20 cm is doch wenig~",
+        "5": "Nr 1 lehrer impressionist"
       }
     },
     {
-      "name": "Student 20",
+      "name": "Neudorfer Bernhard",
       "image": {
-        "0": "image/student/James Paul - 1.png",
-        "1": "image/student/James Paul - 2.png"
+        "0": "image/student/Neudorfer Bernhard - 1.png",
+        "1": "image/student/Neudorfer Bernhard - 2.png"
+      },
+      "nickname": "Berni",
+      "height": "1,81m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Wird irgendwonn moi die evelin bumsn",
+        "1": "Schlauer Typ",
+        "2": "Smart",
+        "3": "Wenn er a Frog stellt hoben olle Lehrer ongst",
+        "4": "Allzweck Werkzeug",
+        "5": "aka die einzige Hoffnung auf eine gute EPLAN note\uD83E\uDD72",
+        "6": "Das bin ich",
+        "7": "Nagys wiedergeburt"
+      }
+    },
+    {
+      "name": "Oberauer Tobias",
+      "image": {
+        "0": "image/student/Oberauer Tobias - 1.png",
+        "1": "image/student/Oberauer Tobias - 2.png"
+      },
+      "height": "1,84m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Innviertler megn ma olle",
+        "1": "Mei innviertler schatz",
+        "2": "Bester mann ob und zu choleriker aber i love you"
+      }
+    },
+    {
+      "name": "Putz Dominik",
+      "image": {
+        "0": "image/student/Putz Dominik - 1.png",
+        "1": "image/student/Putz Dominik - 2.png"
+      },
+      "nickname": "Putzi",
+      "height": "1,78m",
+      "birthday": "25.12.2005",
+      "nationality": "Lauffen",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Hod a spielsucht",
+        "1": "Alkoholiker",
+        "2": "Glücksspielsüchtig",
+        "3": "Raucher und Snussüchtig und hot generell a bissl an schoden",
+        "4": "Abhängigkeit in Person",
+        "5": "Mim Dodo wirds nie langweilig",
+        "6": "Slots",
+        "7": "Verbrecher",
+        "8": "Straftäter",
+        "9": "Ausländer",
+        "10": "vom Dorf"
+      }
+    },
+    {
+      "name": "Reisegger Luca",
+      "image": {
+        "0": "image/student/Reisegger Luca - 1.png"
+      },
+      "nickname": "Reislegger",
+      "height": "1,81m",
+      "birthday": "27.9.2005",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Mit seim Benz und seina Husky kann erm kana einholen",
+        "1": "Motorrad moga",
+        "2": "<3",
+        "3": "Ceo of Obwaller sei Tochter",
+        "4": "Sorry das ich in dein WC mal daneben gepisst hab :(",
+        "5": "Der Bruchpilot",
+        "6": "Beste insta videos"
+      }
+    },
+    {
+      "name": "Richter Jonas",
+      "image": {
+        "0": "image/student/Richter Jonas - 1.png",
+        "1": "image/student/Richter Jonas - 2.png"
+      },
+      "height": "1,81m",
+      "birthday": "24.2.2006",
+      "nationality": "Österreich",
+      "gender": "Jesus",
+      "description": "",
+      "comments": {
+        "0": "Ma kann a ohne Alkohol spaß hobn",
+        "1": "Gamer",
+        "2": "Der Geilste überhaupt",
+        "3": "Hot effektiv in de 5 Jahren 10 minuten glernt",
+        "4": "Frauen Jesus",
+        "5": "Jesus ohne Wein",
+        "6": "Hob kheat er hod an longen Pferdeschwanz",
+        "7": "Würd eus fia an GT3 RS doa",
+        "8": "Mr Nummer 1 in Österreich in Boom Beach",
+        "9": "~I moch des Freestyle~"
+      }
+    },
+    {
+      "name": "Schätz Simon",
+      "image": {
+        "0": "image/student/Schätz Simon - 1.png",
+        "1": "image/student/Schätz Simon - 2.png"
+      },
+      "height": "1,81m",
+      "birthday": "31.1.2006",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "De Grünen sans ned aso",
+        "1": "Linksextrem",
+        "2": "Child devour",
+        "3": "Du bist probably max 6 Monate von ana Existenzkrise entfernt",
+        "4": "Grüne Linkssau",
+        "5": "ned rechts vor links sondern Links vor rechts",
+        "6": "Schätz mei Diplomarbeiten kammer buddy, i werd die zeit vermissn wo ma gemeinsam im keller goabeit hobm und verzweifelt san",
+        "7": "~I moch maong Zeitausgleich~"
+      }
+    },
+    {
+      "name": "Steininger Elias",
+      "image": {
+        "0": "image/student/Steininger Elias - 1.png",
+        "1": "image/student/Steininger Elias - 2.png"
+      },
+      "nickname": "Stonie",
+      "height": "1,81m",
+      "birthday": "14.7.2006",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Geile Sau",
+        "1": "Informatik warad eam lieber",
+        "2": "Ist king",
+        "3": "Programmieraffe",
+        "4": "aka der GOAT",
+        "5": "Der Mann hat keine Ahnung vom Leben aber er tud alles für Geld",
+        "6": "mehr nerd als gedacht",
+        "7": "Noch ein DA kammer buddy den i vermissen werd, bist da beste steinmeißler",
+        "8": "Schöpfer dieser absolut perfekten und zauberhaften Website ;)",
+        "9": "Nerdy",
+        "10": "~Die do drüben is cute~"
+      }
+    },
+    {
+      "name": "Thomas Maximilian",
+      "image": {
+        "0": "image/student/Thomas Maximilian - 1.png",
+        "1": "image/student/Thomas Maximilian - 2.png"
+      },
+      "height": "1,74m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Peugeot",
+      "description": "",
+      "comments": {
+        "0": "Da intelligenteste und witzigste typ überhaupt",
+        "1": "Toyota Hansl",
+        "2": "Peugeot Lover",
+        "3": "Was i ned",
+        "4": "Ich weiß immer noch nicht was dein Vorname davon is, i wechsel mi einfach immer ab",
+        "5": "Der zweite kleine mid zu vielen Autos",
+        "6": "Siehe David Kronlachner"
+      }
+    },
+    {
+      "name": "Trautwein Tobias",
+      "image": {
+        "0": "image/student/Trautwein Tobias - 1.png",
+        "1": "image/student/Trautwein Tobias - 2.png"
+      },
+      "height": "1,82m",
+      "birthday": "14.7.2005",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Immer a guada Mann gwesn",
+        "1": "Alkoholpanzer",
+        "2": "Der Bergsteiger",
+        "3": "~Nach fortgeh is vorm bergsteign~"
+      }
+    },
+    {
+      "name": "Tuschner Paul",
+      "image": {
+        "0": "image/student/Tuschner Paul - 1.png"
+      },
+      "height": "",
+      "birthday": "",
+      "nationality": "",
+      "gender": "",
+      "description": "",
+      "comments": {
+
+      }
+    },
+    {
+      "name": "Wieser Johannes",
+      "image": {
+        "0": "image/student/Wieser Johannes - 1.png",
+        "1": "image/student/Wieser Johannes - 2.png"
       },
       "height": "1,80m",
-      "birthday": "1.1.2000",
-      "nationality": "Austria",
-      "gender": "Female",
-      "description": "With her perpetually ink-stained fingers and a cascade of fiery red hair, devoured ancient texts and star charts with equal fervor.  Her notebook, a chaotic mix of arcane symbols and complex equations, hinted at a mind constantly weaving connections between forgotten lore and the cosmos.  She often spoke in riddles, her eyes sparkling with an otherworldly curiosity.",
+      "birthday": "3.8.2005",
+      "nationality": "Philippinen",
+      "gender": "Melatonin",
+      "description": "",
       "comments": {
-        "0": "My BFF",
-        "1": "~No test is to hard~"
+        "0": "\uD83C\uDDE8\uD83C\uDDF3\uD83C\uDDE8\uD83C\uDDF3",
+        "1": "對於延誤，我很抱歉",
+        "2": "Mag Katzen",
+        "3": "~Ähhhh einmal ähhh bitte Katze mit Leis~",
+        "4": "4621",
+        "5": "Filipinos auf die 1",
+        "6": "야옹 야옹 난 네 엄마를 엿먹는다",
+        "7": "Schlafmangel in Person",
+        "8": "Katzenfressendes Monster"
+      }
+    },
+    {
+      "name": "Ziegler Stefan",
+      "image": {
+        "0": "image/student/Ziegler Stefan - 1.png"
+      },
+      "height": "1,82m",
+      "birthday": "",
+      "nationality": "Österreich",
+      "gender": "Männlich",
+      "description": "",
+      "comments": {
+        "0": "Danke das du mir mindustry beigebracht hast",
+        "1": "Mindustry King",
+        "2": "Pizza/Kebab Liebhaber"
       }
     }
   ]
