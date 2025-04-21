@@ -1,0 +1,13 @@
+{
+  "teachers": "Lehrer",
+  "students": "Schüler",
+  "height": "Größe",
+  "birthday": "Geburtstag",
+  "nationality": "Nationalität",
+  "gender": "Geschlecht",
+  "rating": "Bewertung",
+  "personality": "Persönlichkeit",
+  "lesson": "Unterricht",
+  "grading": "Benotung",
+  "knowledge": "Wissen"
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
+    <title>Yearbook</title>
+    <link rel="icon" href="image/icon.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body onload="onLoad()">
+
+<nav class="navbar">
+    <button class="nav-icon" data-page="book">
+        <img src="image/book.png" height="30" width="30" alt="Yearbook">
+    </button>
+    <button class="nav-icon" data-page="gallery">
+        <img src="image/gallery.png" height="30" width="30" alt="Gallery">
+    </button>
+</nav>
+
+<section id="bookPage" class="page book-page">
+    <nav class="book-navbar">
+        <button id="teachersLabel" class="book-nav-icon" data-type="teacher">Teachers</button>
+        <button id="studentsLabel" class="book-nav-icon" data-type="student">Students</button>
+    </nav>
+    <div class="people-container" id="peopleContainer"></div>
+</section>
+
+<section id="galleryPage" class="page gallery-page">
+    <div class="picture-container"></div>
+</section>
+
+<section id="personItemPage" class="page person-item-page">
+    <button class="close-button" aria-label="Close Person" id="personCloseButton"></button>
+    <div class="person-container" id ="personContainer">
+        <img id="personItemOpen" class="person-image-open" src="" alt="">
+        <div id="personName" class="person-name">Person Name</div>
+        <div id="personInfo" class="person-info"></div>
+        <div id="personDescription" class="person-description"></div>
+    </div>
+</section>
+
+<section id="galleryItemPage" class="page gallery-item-page">
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
