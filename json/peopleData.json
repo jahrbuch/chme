@@ -3,7 +3,7 @@
     {
       "name": "Aichinger Joachim",
       "image": {
-        "0": "image/teacher/Aichinger Joachim.png"
+        "0": "image/teacher/Aichinger Joachim.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -22,7 +22,7 @@
     {
       "name": "Baldinger Martin",
       "image": {
-        "0": "image/teacher/Baldinger Martin.png"
+        "0": "image/teacher/Baldinger Martin.webp"
       },
       "rating": {
         "personality": 1.3,
@@ -48,7 +48,7 @@
     {
       "name": "Brunnthaler Manfred",
       "image": {
-        "0": "image/teacher/Brunnthaler Manfred.png"
+        "0": "image/teacher/Brunnthaler Manfred.webp"
       },
       "rating": {
         "personality": 2.3,
@@ -69,7 +69,7 @@
     {
       "name": "Burger Bettina",
       "image": {
-        "0": "image/teacher/Burger Bettina.png"
+        "0": "image/teacher/Burger Bettina.webp"
       },
       "rating": {
         "personality": 3.8,
@@ -92,7 +92,7 @@
     {
       "name": "Daxner Andreas",
       "image": {
-        "0": "image/teacher/Daxner Andreas.png"
+        "0": "image/teacher/Daxner Andreas.webp"
       },
       "rating": {
         "personality": 2.6,
@@ -108,7 +108,7 @@
     {
       "name": "Dietmar Eckl",
       "image": {
-        "0": "image/teacher/Dietmar Eckl.png"
+        "0": "image/teacher/Dietmar Eckl.webp"
       },
       "rating": {
         "personality": 2.7,
@@ -125,7 +125,7 @@
     {
       "name": "Dißlbacher-Fink Armin",
       "image": {
-        "0": "image/teacher/Dißlbacher-Fink Armin.png"
+        "0": "image/teacher/Dißlbacher-Fink Armin.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -144,7 +144,7 @@
     {
       "name": "Ebner Bernhard",
       "image": {
-        "0": "image/teacher/Ebner Bernhard.png"
+        "0": "image/teacher/Ebner Bernhard.webp"
       },
       "rating": {
         "personality": 2.4,
@@ -166,7 +166,7 @@
     {
       "name": "Dietmar Eckl",
       "image": {
-        "0": "image/teacher/Dietmar Eckl.png"
+        "0": "image/teacher/Dietmar Eckl.webp"
       },
       "rating": {
         "personality": 3,
@@ -183,7 +183,7 @@
     {
       "name": "Eppacher Thomas",
       "image": {
-        "0": "image/teacher/Eppacher Thomas.png"
+        "0": "image/teacher/Eppacher Thomas.webp"
       },
       "rating": {
         "personality": 3.2,
@@ -203,7 +203,7 @@
     {
       "name": "Furthmoser Gerhard",
       "image": {
-        "0": "image/teacher/Furthmoser Gerhard.png"
+        "0": "image/teacher/Furthmoser Gerhard.webp"
       },
       "rating": {
         "personality": 2.3,
@@ -220,7 +220,7 @@
     {
       "name": "Gangl Andreas",
       "image": {
-        "0": "image/teacher/Gangl Andreas.png"
+        "0": "image/teacher/Gangl Andreas.webp"
       },
       "rating": {
         "personality": 3.2,
@@ -243,7 +243,7 @@
     {
       "name": "Gurtner Johann",
       "image": {
-        "0": "image/teacher/Gurtner Johann.png"
+        "0": "image/teacher/Gurtner Johann.webp"
       },
       "rating": {
         "personality": 2.3,
@@ -259,7 +259,7 @@
     {
       "name": "Haslauer Siegfried",
       "image": {
-        "0": "image/teacher/Haslauer Siegfried.png"
+        "0": "image/teacher/Haslauer Siegfried.webp"
       },
       "rating": {
         "personality": 2.3,
@@ -280,7 +280,7 @@
     {
       "name": "Helmberger Anton",
       "image": {
-        "0": "image/teacher/Helmberger Anton.png"
+        "0": "image/teacher/Helmberger Anton.webp"
       },
       "rating": {
         "personality": 2.6,
@@ -299,7 +299,7 @@
     {
       "name": "Hennebichler Alfred",
       "image": {
-        "0": "image/teacher/Hennebichler Alfred.png"
+        "0": "image/teacher/Hennebichler Alfred.webp"
       },
       "rating": {
         "personality": 2.4,
@@ -318,7 +318,7 @@
     {
       "name": "Hintergberger Manfred",
       "image": {
-        "0": "image/teacher/Hintergberger Manfred.png"
+        "0": "image/teacher/Hintergberger Manfred.webp"
       },
       "rating": {
         "personality": 1.8,
@@ -337,7 +337,7 @@
     {
       "name": "Hofinger Manfred",
       "image": {
-        "0": "image/teacher/Hofinger Manfred.png"
+        "0": "image/teacher/Hofinger Manfred.webp"
       },
       "rating": {
         "personality": 3.1,
@@ -358,9 +358,9 @@
     {
       "name": "Holl Bettina",
       "image": {
-        "0": "image/teacher/Holl Bettina.png",
-        "1": "image/teacher/Holl Bettina - 2.png",
-        "2": "image/teacher/Holl Bettina - 3.png"
+        "0": "image/teacher/Holl Bettina.webp",
+        "1": "image/teacher/Holl Bettina - 2.webp",
+        "2": "image/teacher/Holl Bettina - 3.webp"
       },
       "rating": {
         "personality": 1.2,
@@ -381,7 +381,7 @@
     {
       "name": "Huml Mathias",
       "image": {
-        "0": "image/teacher/Huml Mathias.png",
+        "0": "image/teacher/Huml Mathias.webp",
         "1": "image/teacher/Huml Mathias - 2.jpg"
       },
       "rating": {
@@ -405,7 +405,7 @@
     {
       "name": "Klement Oliver.",
       "image": {
-        "0": "image/teacher/Klement Oliver.png"
+        "0": "image/teacher/Klement Oliver.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -423,7 +423,7 @@
     {
       "name": "Laage Robin",
       "image": {
-        "0": "image/teacher/Laage Robin.png"
+        "0": "image/teacher/Laage Robin.webp"
       },
       "rating": {
         "personality": 4.2,
@@ -444,7 +444,7 @@
     {
       "name": "Lehner Christian",
       "image": {
-        "0": "image/teacher/Lehner Christian.png"
+        "0": "image/teacher/Lehner Christian.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -466,7 +466,7 @@
     {
       "name": "Leindecker Rudolf",
       "image": {
-        "0": "image/teacher/Leindecker Rudolf.png"
+        "0": "image/teacher/Leindecker Rudolf.webp"
       },
       "rating": {
         "personality": 2.6,
@@ -485,7 +485,7 @@
     {
       "name": "Mair Alois",
       "image": {
-        "0": "image/teacher/Mair Alois.png"
+        "0": "image/teacher/Mair Alois.webp"
       },
       "rating": {
         "personality": 3.4,
@@ -504,7 +504,7 @@
     {
       "name": "Malfent Josef",
       "image": {
-        "0": "image/teacher/Malfent Josef.png"
+        "0": "image/teacher/Malfent Josef.webp"
       },
       "rating": {
         "personality": 3.6,
@@ -524,10 +524,10 @@
     {
       "name": "Mayrhofer David",
       "image": {
-        "0": "image/teacher/Mayrhofer David.png",
-        "1": "image/teacher/Mayrhofer David - 2.png",
-        "2": "image/teacher/Mayrhofer David - 3.png",
-        "3": "image/teacher/Mayrhofer David - 4.png"
+        "0": "image/teacher/Mayrhofer David.webp",
+        "1": "image/teacher/Mayrhofer David - 2.webp",
+        "2": "image/teacher/Mayrhofer David - 3.webp",
+        "3": "image/teacher/Mayrhofer David - 4.webp"
       },
       "rating": {
         "personality": 1.3,
@@ -546,7 +546,7 @@
     {
       "name": "Mikschick Bernhard",
       "image": {
-        "0": "image/teacher/Mikschick Bernhard.png"
+        "0": "image/teacher/Mikschick Bernhard.webp"
       },
       "rating": {
         "personality": 2.9,
@@ -566,7 +566,7 @@
     {
       "name": "Moosmayr Alexander",
       "image": {
-        "0": "image/teacher/Moosmayr Alexander.png"
+        "0": "image/teacher/Moosmayr Alexander.webp"
       },
       "rating": {
         "personality": 3.9,
@@ -586,7 +586,7 @@
     {
       "name": "Nagy Zsolt",
       "image": {
-        "0": "image/teacher/Nagy Zsolt.png"
+        "0": "image/teacher/Nagy Zsolt.webp"
       },
       "rating": {
         "personality": 2.9,
@@ -609,7 +609,7 @@
     {
       "name": "Nöhammer Gerhard",
       "image": {
-        "0": "image/teacher/Nöhammer Gerhard.png"
+        "0": "image/teacher/Nöhammer Gerhard.webp"
       },
       "rating": {
         "personality": 2.4,
@@ -626,7 +626,7 @@
     {
       "name": "Obwaller Rainer",
       "image": {
-        "0": "image/teacher/Obwaller Rainer.png"
+        "0": "image/teacher/Obwaller Rainer.webp"
       },
       "rating": {
         "personality": 1.5,
@@ -649,7 +649,7 @@
     {
       "name": "Petermayr Gutrun",
       "image": {
-        "0": "image/teacher/Petermayr Gutrun.png"
+        "0": "image/teacher/Petermayr Gutrun.webp"
       },
       "rating": {
         "personality": 2.3,
@@ -669,7 +669,7 @@
     {
       "name": "Puntigam Rupert",
       "image": {
-        "0": "image/teacher/Puntigam Rupert.png"
+        "0": "image/teacher/Puntigam Rupert.webp"
       },
       "rating": {
         "personality": 3.8,
@@ -692,7 +692,7 @@
     {
       "name": "Pühringer Franz",
       "image": {
-        "0": "image/teacher/Pühringer Franz.png"
+        "0": "image/teacher/Pühringer Franz.webp"
       },
       "rating": {
         "personality": 3,
@@ -708,7 +708,7 @@
     {
       "name": "Röbl Markus",
       "image": {
-        "0": "image/teacher/Röbl Markus.png"
+        "0": "image/teacher/Röbl Markus.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -724,7 +724,7 @@
     {
       "name": "Sattlberger Franz",
       "image": {
-        "0": "image/teacher/Sattlberger Franz.png"
+        "0": "image/teacher/Sattlberger Franz.webp"
       },
       "rating": {
         "personality": 3.2,
@@ -750,7 +750,7 @@
     {
       "name": "Schauer Rudolf",
       "image": {
-        "0": "image/teacher/Schauer Rudolf.png"
+        "0": "image/teacher/Schauer Rudolf.webp"
       },
       "rating": {
         "personality": 3,
@@ -767,7 +767,7 @@
     {
       "name": "Schindler Dietmar",
       "image": {
-        "0": "image/teacher/Schindler Dietmar.png"
+        "0": "image/teacher/Schindler Dietmar.webp"
       },
       "rating": {
         "personality": 1.6,
@@ -792,7 +792,7 @@
     {
       "name": "Schmidl Robin",
       "image": {
-        "0": "image/teacher/Schmidl Robin.png"
+        "0": "image/teacher/Schmidl Robin.webp"
       },
       "rating": {
         "personality": 1.9,
@@ -809,7 +809,7 @@
     {
       "name": "Schneeweisz Herbert",
       "image": {
-        "0": "image/teacher/Schneeweisz Herbert.png"
+        "0": "image/teacher/Schneeweisz Herbert.webp"
       },
       "rating": {
         "personality": 1.4,
@@ -828,7 +828,7 @@
     {
       "name": "Schrangl Gerhard",
       "image": {
-        "0": "image/teacher/Schrangl Gerhard.png"
+        "0": "image/teacher/Schrangl Gerhard.webp"
       },
       "rating": {
         "personality": 2,
@@ -845,7 +845,7 @@
     {
       "name": "Vostandslechner Peter",
       "image": {
-        "0": "image/teacher/Vostandslechner Peter.png"
+        "0": "image/teacher/Vostandslechner Peter.webp"
       },
       "rating": {
         "personality": 3,
@@ -870,7 +870,7 @@
     {
       "name": "Watzenböck Franz",
       "image": {
-        "0": "image/teacher/Watzenböck Franz.png"
+        "0": "image/teacher/Watzenböck Franz.webp"
       },
       "rating": {
         "personality": 2.6,
@@ -888,10 +888,10 @@
     {
       "name": "Wiesbauer Erwin",
       "image": {
-        "0": "image/teacher/Wiesbauer Erwin.png",
-        "1": "image/teacher/Wiesbauer Erwin - 2.png",
-        "2": "image/teacher/Wiesbauer Erwin - 3.png",
-        "3": "image/teacher/Wiesbauer Erwin - 4.png"
+        "0": "image/teacher/Wiesbauer Erwin.webp",
+        "1": "image/teacher/Wiesbauer Erwin - 2.webp",
+        "2": "image/teacher/Wiesbauer Erwin - 3.webp",
+        "3": "image/teacher/Wiesbauer Erwin - 4.webp"
       },
       "rating": {
         "personality": 2.8,
@@ -914,8 +914,8 @@
     {
       "name": "Brunmayr Markus",
       "image": {
-        "0": "image/student/Brunmayr Markus - 1.png",
-        "1": "image/student/Brunmayr Markus - 2.png"
+        "0": "image/student/Brunmayr Markus - 1.webp",
+        "1": "image/student/Brunmayr Markus - 2.webp"
       },
       "height": "1,82m",
       "birthday": "10.3.2006",
@@ -942,8 +942,8 @@
     {
       "name": "Büyükbas Mert",
       "image": {
-        "0": "image/student/Büyükbas Mert - 1.png",
-        "1": "image/student/Büyükbas Mert - 2.png"
+        "0": "image/student/Büyükbas Mert - 1.webp",
+        "1": "image/student/Büyükbas Mert - 2.webp"
       },
       "height": "1,95m",
       "birthday": "7.2.2004",
@@ -965,8 +965,8 @@
     {
       "name": "Cecon David",
       "image": {
-        "0": "image/student/Cecon David - 1.png",
-        "1": "image/student/Cecon David - 2.png"
+        "0": "image/student/Cecon David - 1.webp",
+        "1": "image/student/Cecon David - 2.webp"
       },
       "height": "1,81m",
       "birthday": "",
@@ -987,8 +987,8 @@
     {
       "name": "Dantler Clemens",
       "image": {
-        "0": "image/student/Dantler Clemens - 1.png",
-        "1": "image/student/Dantler Clemens - 2.png"
+        "0": "image/student/Dantler Clemens - 1.webp",
+        "1": "image/student/Dantler Clemens - 2.webp"
       },
       "height": "1,78m",
       "birthday": "",
@@ -1009,8 +1009,8 @@
     {
       "name": "Durak Okay",
       "image": {
-        "0": "image/student/Durak Okay - 1.png",
-        "1": "image/student/Durak Okay - 2.png"
+        "0": "image/student/Durak Okay - 1.webp",
+        "1": "image/student/Durak Okay - 2.webp"
       },
       "height": "1,78m",
       "birthday": "7.10.2005",
@@ -1031,7 +1031,7 @@
     {
       "name": "Fürlinger Marcel",
       "image": {
-        "0": "image/student/Fürlinger Marcel - 1.png"
+        "0": "image/student/Fürlinger Marcel - 1.webp"
       },
       "nickname": "Fürli",
       "height": "1,75m",
@@ -1054,8 +1054,8 @@
     {
       "name": "Fürtner Valentin",
       "image": {
-        "0": "image/student/Fürtner Valentin - 1.png",
-        "1": "image/student/Fürtner Valentin - 2.png"
+        "0": "image/student/Fürtner Valentin - 1.webp",
+        "1": "image/student/Fürtner Valentin - 2.webp"
       },
       "height": "1,76m",
       "birthday": "13.3.2006",
@@ -1078,8 +1078,8 @@
     {
       "name": "Geier Moritz",
       "image": {
-        "0": "image/student/Geier Moritz - 1.png",
-        "1": "image/student/Geier Moritz - 2.png"
+        "0": "image/student/Geier Moritz - 1.webp",
+        "1": "image/student/Geier Moritz - 2.webp"
       },
       "nickname": "Geia",
       "height": "1,81m",
@@ -1102,8 +1102,8 @@
     {
       "name": "Hiebl David",
       "image": {
-        "0": "image/student/Hiebl David - 1.png",
-        "1": "image/student/Hiebl David - 2.png"
+        "0": "image/student/Hiebl David - 1.webp",
+        "1": "image/student/Hiebl David - 2.webp"
       },
       "height": "1,78m",
       "birthday": "7.7.2006",
@@ -1119,8 +1119,8 @@
     {
       "name": "Hofbauer Fabio",
       "image": {
-        "0": "image/student/Hofbauer Fabio - 1.png",
-        "1": "image/student/Hofbauer Fabio - 2.png"
+        "0": "image/student/Hofbauer Fabio - 1.webp",
+        "1": "image/student/Hofbauer Fabio - 2.webp"
       },
       "nickname": "Hofi",
       "height": "1,79m",
@@ -1142,7 +1142,7 @@
     {
       "name": "Jellmair Matthias",
       "image": {
-        "0": "image/student/Jellmair Matthias - 1.png"
+        "0": "image/student/Jellmair Matthias - 1.webp"
       },
       "height": "1,83m",
       "birthday": "",
@@ -1160,8 +1160,8 @@
     {
       "name": "Kogler Fabian",
       "image": {
-        "0": "image/student/Kogler Fabian - 1.png",
-        "1": "image/student/Kogler Fabian - 2.png"
+        "0": "image/student/Kogler Fabian - 1.webp",
+        "1": "image/student/Kogler Fabian - 2.webp"
       },
       "height": "1,84m",
       "birthday": "5.6.2006",
@@ -1185,8 +1185,8 @@
     {
       "name": "Krempl Matthias",
       "image": {
-        "0": "image/student/Krempl Matthias - 1.png",
-        "1": "image/student/Krempl Matthias - 2.png"
+        "0": "image/student/Krempl Matthias - 1.webp",
+        "1": "image/student/Krempl Matthias - 2.webp"
       },
       "nickname": "Hias",
       "height": "1,76m",
@@ -1204,8 +1204,8 @@
     {
       "name": "Kreuter Frederik",
       "image": {
-        "0": "image/student/Kreuter Frederik - 1.png",
-        "1": "image/student/Kreuter Frederik - 2.png"
+        "0": "image/student/Kreuter Frederik - 1.webp",
+        "1": "image/student/Kreuter Frederik - 2.webp"
       },
       "height": "1,83m",
       "birthday": "",
@@ -1222,8 +1222,8 @@
     {
       "name": "Kronlachner David",
       "image": {
-        "0": "image/student/Kronlachner David - 1.png",
-        "1": "image/student/Kronlachner David - 2.png"
+        "0": "image/student/Kronlachner David - 1.webp",
+        "1": "image/student/Kronlachner David - 2.webp"
       },
       "height": "1,74m",
       "birthday": "",
@@ -1241,8 +1241,8 @@
     {
       "name": "Kurt Philipp",
       "image": {
-        "0": "image/student/Kurt Philipp - 1.png",
-        "1": "image/student/Kurt Philipp - 2.png"
+        "0": "image/student/Kurt Philipp - 1.webp",
+        "1": "image/student/Kurt Philipp - 2.webp"
       },
       "height": "1,83m",
       "birthday": "18.11.2004",
@@ -1261,8 +1261,8 @@
     },{
       "name": "Milic Gabriel",
       "image": {
-        "0": "image/student/Milic Gabriel - 1.png",
-        "1": "image/student/Milic Gabriel - 2.png"
+        "0": "image/student/Milic Gabriel - 1.webp",
+        "1": "image/student/Milic Gabriel - 2.webp"
       },
       "height": "1,81m",
       "birthday": "5.6.2005",
@@ -1282,8 +1282,8 @@
     {
       "name": "Mitterschaider Mike",
       "image": {
-        "0": "image/student/Mitterschaider Mike - 1.png",
-        "1": "image/student/Mitterschaider Mike - 2.png"
+        "0": "image/student/Mitterschaider Mike - 1.webp",
+        "1": "image/student/Mitterschaider Mike - 2.webp"
       },
       "nickname": "Seitenschneider",
       "height": "1,83m",
@@ -1304,8 +1304,8 @@
     {
       "name": "Mulahmetovic Anel",
       "image": {
-        "0": "image/student/Mulahmetovic Anel - 1.png",
-        "1": "image/student/Mulahmetovic Anel - 2.png"
+        "0": "image/student/Mulahmetovic Anel - 1.webp",
+        "1": "image/student/Mulahmetovic Anel - 2.webp"
       },
       "height": "1,82m",
       "birthday": "",
@@ -1324,8 +1324,8 @@
     {
       "name": "Neudorfer Bernhard",
       "image": {
-        "0": "image/student/Neudorfer Bernhard - 1.png",
-        "1": "image/student/Neudorfer Bernhard - 2.png"
+        "0": "image/student/Neudorfer Bernhard - 1.webp",
+        "1": "image/student/Neudorfer Bernhard - 2.webp"
       },
       "nickname": "Berni",
       "height": "1,81m",
@@ -1347,8 +1347,8 @@
     {
       "name": "Oberauer Tobias",
       "image": {
-        "0": "image/student/Oberauer Tobias - 1.png",
-        "1": "image/student/Oberauer Tobias - 2.png"
+        "0": "image/student/Oberauer Tobias - 1.webp",
+        "1": "image/student/Oberauer Tobias - 2.webp"
       },
       "height": "1,84m",
       "birthday": "",
@@ -1364,8 +1364,8 @@
     {
       "name": "Putz Dominik",
       "image": {
-        "0": "image/student/Putz Dominik - 1.png",
-        "1": "image/student/Putz Dominik - 2.png"
+        "0": "image/student/Putz Dominik - 1.webp",
+        "1": "image/student/Putz Dominik - 2.webp"
       },
       "nickname": "Dodo",
       "height": "1,78m",
@@ -1390,7 +1390,7 @@
     {
       "name": "Reisegger Luca",
       "image": {
-        "0": "image/student/Reisegger Luca - 1.png"
+        "0": "image/student/Reisegger Luca - 1.webp"
       },
       "nickname": "Reislegger",
       "height": "1,81m",
@@ -1411,8 +1411,8 @@
     {
       "name": "Richter Jonas",
       "image": {
-        "0": "image/student/Richter Jonas - 1.png",
-        "1": "image/student/Richter Jonas - 2.png"
+        "0": "image/student/Richter Jonas - 1.webp",
+        "1": "image/student/Richter Jonas - 2.webp"
       },
       "height": "1,81m",
       "birthday": "24.2.2006",
@@ -1435,8 +1435,8 @@
     {
       "name": "Schätz Simon",
       "image": {
-        "0": "image/student/Schätz Simon - 1.png",
-        "1": "image/student/Schätz Simon - 2.png"
+        "0": "image/student/Schätz Simon - 1.webp",
+        "1": "image/student/Schätz Simon - 2.webp"
       },
       "height": "1,86m",
       "birthday": "31.1.2006",
@@ -1457,8 +1457,8 @@
     {
       "name": "Steininger Elias",
       "image": {
-        "0": "image/student/Steininger Elias - 1.png",
-        "1": "image/student/Steininger Elias - 2.png"
+        "0": "image/student/Steininger Elias - 1.webp",
+        "1": "image/student/Steininger Elias - 2.webp"
       },
       "nickname": "Stonie",
       "height": "1,81m",
@@ -1483,8 +1483,8 @@
     {
       "name": "Thomas Maximilian",
       "image": {
-        "0": "image/student/Thomas Maximilian - 1.png",
-        "1": "image/student/Thomas Maximilian - 2.png"
+        "0": "image/student/Thomas Maximilian - 1.webp",
+        "1": "image/student/Thomas Maximilian - 2.webp"
       },
       "height": "1,74m",
       "birthday": "",
@@ -1504,8 +1504,8 @@
     {
       "name": "Trautwein Tobias",
       "image": {
-        "0": "image/student/Trautwein Tobias - 1.png",
-        "1": "image/student/Trautwein Tobias - 2.png"
+        "0": "image/student/Trautwein Tobias - 1.webp",
+        "1": "image/student/Trautwein Tobias - 2.webp"
       },
       "height": "1,82m",
       "birthday": "14.7.2005",
@@ -1522,7 +1522,7 @@
     {
       "name": "Tuschner Paul",
       "image": {
-        "0": "image/student/Tuschner Paul - 1.png"
+        "0": "image/student/Tuschner Paul - 1.webp"
       },
       "height": "",
       "birthday": "",
@@ -1536,8 +1536,8 @@
     {
       "name": "Wieser Johannes",
       "image": {
-        "0": "image/student/Wieser Johannes - 1.png",
-        "1": "image/student/Wieser Johannes - 2.png"
+        "0": "image/student/Wieser Johannes - 1.webp",
+        "1": "image/student/Wieser Johannes - 2.webp"
       },
       "height": "1,80m",
       "birthday": "3.8.2005",
@@ -1559,7 +1559,7 @@
     {
       "name": "Ziegler Stefan",
       "image": {
-        "0": "image/student/Ziegler Stefan - 1.png"
+        "0": "image/student/Ziegler Stefan - 1.webp"
       },
       "height": "1,82m",
       "birthday": "",
