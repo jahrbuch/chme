@@ -218,7 +218,7 @@ function openImage(data) {
     for (let i = 0; i < Object.keys(data.persons).length; i++) {
         personsContainer.innerHTML +=
             '<div class="persons-person">' +
-                `<img src="image/student/${data.persons[i]} - 1.png" alt="Picture">\n` +
+                `<img src="image/student/${data.persons[i]} - 1.webp" alt="Picture">\n` +
                 `<p>${data.persons[i]}</p>\n` +
             '</div>';
     }
